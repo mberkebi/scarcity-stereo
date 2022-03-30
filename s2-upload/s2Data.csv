@@ -1,0 +1,2554 @@
+subjID,trial,stimText,stimCode,rating
+1142624,22,Who is a criminal?,hostile,0.5
+1287720,19,Who is a criminal?,hostile,-2.5
+1413618,16,Who is a criminal?,hostile,1.5
+1510275,4,Who is a criminal?,hostile,0.5
+1515614,1,Who is a criminal?,hostile,2.5
+1524468,16,Who is a criminal?,hostile,-0.5
+1633020,23,Who is a criminal?,hostile,0.5
+1717058,26,Who is a criminal?,hostile,0.5
+1774470,5,Who is a criminal?,hostile,1.5
+1785240,20,Who is a criminal?,hostile,2.5
+1824217,2,Who is a criminal?,hostile,-2.5
+1832195,3,Who is a criminal?,hostile,1.5
+1854683,3,Who is a criminal?,hostile,-2.5
+2147710,1,Who is a criminal?,hostile,2.5
+2320801,7,Who is a criminal?,hostile,1.5
+2348675,22,Who is a criminal?,hostile,0.5
+2422756,7,Who is a criminal?,hostile,1.5
+2568308,9,Who is a criminal?,hostile,2.5
+2625615,17,Who is a criminal?,hostile,-0.5
+2700755,17,Who is a criminal?,hostile,2.5
+2757342,1,Who is a criminal?,hostile,2.5
+2811881,5,Who is a criminal?,hostile,-1.5
+2841392,13,Who is a criminal?,hostile,-1.5
+2858139,20,Who is a criminal?,hostile,2.5
+2862073,16,Who is a criminal?,hostile,-0.5
+2920394,3,Who is a criminal?,hostile,1.5
+3047366,7,Who is a criminal?,hostile,1.5
+3093192,13,Who is a criminal?,hostile,1.5
+3166437,9,Who is a criminal?,hostile,2.5
+3400052,23,Who is a criminal?,hostile,2.5
+3573449,18,Who is a criminal?,hostile,0.5
+3686281,15,Who is a criminal?,hostile,0.5
+3888893,15,Who is a criminal?,hostile,0.5
+4068785,23,Who is a criminal?,hostile,1.5
+4142689,5,Who is a criminal?,hostile,-1.5
+4170985,21,Who is a criminal?,hostile,2.5
+4625010,6,Who is a criminal?,hostile,0.5
+4875966,26,Who is a criminal?,hostile,0.5
+5001779,14,Who is a criminal?,hostile,1.5
+5004503,4,Who is a criminal?,hostile,-0.5
+5072875,1,Who is a criminal?,hostile,1.5
+5129955,2,Who is a criminal?,hostile,2.5
+5154581,25,Who is a criminal?,hostile,-0.5
+5168349,25,Who is a criminal?,hostile,1.5
+5193661,23,Who is a criminal?,hostile,1.5
+5258667,4,Who is a criminal?,hostile,1.5
+5404667,3,Who is a criminal?,hostile,1.5
+5709566,9,Who is a criminal?,hostile,1.5
+5728466,15,Who is a criminal?,hostile,2.5
+5739140,16,Who is a criminal?,hostile,0.5
+5876861,6,Who is a criminal?,hostile,-1.5
+5916531,19,Who is a criminal?,hostile,1.5
+5980579,20,Who is a criminal?,hostile,-1.5
+6102583,1,Who is a criminal?,hostile,-0.5
+6105547,16,Who is a criminal?,hostile,1.5
+6126672,16,Who is a criminal?,hostile,0.5
+6141536,16,Who is a criminal?,hostile,1.5
+6174225,6,Who is a criminal?,hostile,0.5
+6251370,11,Who is a criminal?,hostile,0.5
+6304188,21,Who is a criminal?,hostile,1.5
+6332076,2,Who is a criminal?,hostile,0.5
+6363469,3,Who is a criminal?,hostile,2.5
+6420053,26,Who is a criminal?,hostile,0.5
+6434581,13,Who is a criminal?,hostile,1.5
+6448316,26,Who is a criminal?,hostile,-2.5
+6494589,12,Who is a criminal?,hostile,2.5
+6585321,10,Who is a criminal?,hostile,-0.5
+6597706,7,Who is a criminal?,hostile,-0.5
+6604457,11,Who is a criminal?,hostile,-1.5
+6641245,23,Who is a criminal?,hostile,0.5
+6677927,22,Who is a criminal?,hostile,1.5
+6751519,7,Who is a criminal?,hostile,0.5
+6769747,11,Who is a criminal?,hostile,-1.5
+6787298,17,Who is a criminal?,hostile,0.5
+6809215,8,Who is a criminal?,hostile,2.5
+6906492,14,Who is a criminal?,hostile,1.5
+6921559,23,Who is a criminal?,hostile,-1.5
+7018743,20,Who is a criminal?,hostile,0.5
+7047138,15,Who is a criminal?,hostile,0.5
+7159485,26,Who is a criminal?,hostile,-0.5
+7275833,23,Who is a criminal?,hostile,-1.5
+7285216,13,Who is a criminal?,hostile,0.5
+7315281,17,Who is a criminal?,hostile,-0.5
+7371193,23,Who is a criminal?,hostile,0.5
+7477141,12,Who is a criminal?,hostile,1.5
+7648361,17,Who is a criminal?,hostile,0.5
+7657180,5,Who is a criminal?,hostile,0.5
+7683469,3,Who is a criminal?,hostile,1.5
+7910765,12,Who is a criminal?,hostile,0.5
+7912713,23,Who is a criminal?,hostile,-0.5
+7991042,21,Who is a criminal?,hostile,1.5
+7994340,23,Who is a criminal?,hostile,0.5
+8329775,13,Who is a criminal?,hostile,-0.5
+8461924,20,Who is a criminal?,hostile,-1.5
+8479358,5,Who is a criminal?,hostile,1.5
+8520741,25,Who is a criminal?,hostile,-0.5
+8647376,24,Who is a criminal?,hostile,-1.5
+9032763,21,Who is a criminal?,hostile,1.5
+9163058,24,Who is a criminal?,hostile,1.5
+9236437,2,Who is a criminal?,hostile,-1.5
+9385299,7,Who is a criminal?,hostile,-2.5
+9446043,9,Who is a criminal?,hostile,1.5
+9456872,23,Who is a criminal?,hostile,2.5
+9492001,17,Who is a criminal?,hostile,1.5
+9682464,22,Who is a criminal?,hostile,2.5
+9733720,26,Who is a criminal?,hostile,0.5
+9788976,4,Who is a criminal?,hostile,1.5
+9902658,25,Who is a criminal?,hostile,-0.5
+9954168,14,Who is a criminal?,hostile,2.5
+9969665,1,Who is a criminal?,hostile,2.5
+9996039,12,Who is a criminal?,hostile,-1.5
+1142624,5,Who is less educated?,ses,0.5
+1287720,17,Who is less educated?,ses,-1.5
+1413618,1,Who is less educated?,ses,-0.5
+1510275,5,Who is less educated?,ses,0.5
+1515614,20,Who is less educated?,ses,-2.5
+1524468,12,Who is less educated?,ses,1.5
+1633020,15,Who is less educated?,ses,2.5
+1717058,18,Who is less educated?,ses,-0.5
+1774470,17,Who is less educated?,ses,1.5
+1785240,25,Who is less educated?,ses,1.5
+1824217,6,Who is less educated?,ses,-2.5
+1832195,12,Who is less educated?,ses,0.5
+1854683,2,Who is less educated?,ses,0.5
+2147710,24,Who is less educated?,ses,-0.5
+2320801,16,Who is less educated?,ses,-1.5
+2348675,25,Who is less educated?,ses,0.5
+2422756,19,Who is less educated?,ses,-1.5
+2568308,14,Who is less educated?,ses,-1.5
+2625615,24,Who is less educated?,ses,-0.5
+2700755,19,Who is less educated?,ses,-2.5
+2757342,7,Who is less educated?,ses,1.5
+2811881,26,Who is less educated?,ses,2.5
+2841392,19,Who is less educated?,ses,-0.5
+2858139,11,Who is less educated?,ses,1.5
+2862073,14,Who is less educated?,ses,1.5
+2920394,12,Who is less educated?,ses,1.5
+3047366,22,Who is less educated?,ses,-0.5
+3093192,12,Who is less educated?,ses,-0.5
+3166437,3,Who is less educated?,ses,1.5
+3400052,1,Who is less educated?,ses,0.5
+3573449,9,Who is less educated?,ses,0.5
+3686281,18,Who is less educated?,ses,-1.5
+3888893,13,Who is less educated?,ses,0.5
+4068785,8,Who is less educated?,ses,0.5
+4142689,18,Who is less educated?,ses,-0.5
+4170985,15,Who is less educated?,ses,-1.5
+4625010,23,Who is less educated?,ses,0.5
+4875966,8,Who is less educated?,ses,-2.5
+5001779,13,Who is less educated?,ses,-2.5
+5004503,12,Who is less educated?,ses,-0.5
+5072875,23,Who is less educated?,ses,1.5
+5129955,19,Who is less educated?,ses,-0.5
+5154581,21,Who is less educated?,ses,0.5
+5168349,22,Who is less educated?,ses,0.5
+5193661,18,Who is less educated?,ses,-0.5
+5258667,15,Who is less educated?,ses,-1.5
+5404667,14,Who is less educated?,ses,-0.5
+5709566,6,Who is less educated?,ses,-0.5
+5728466,20,Who is less educated?,ses,-2.5
+5739140,11,Who is less educated?,ses,0.5
+5876861,11,Who is less educated?,ses,0.5
+5916531,25,Who is less educated?,ses,1.5
+5980579,11,Who is less educated?,ses,-1.5
+6102583,10,Who is less educated?,ses,-0.5
+6105547,3,Who is less educated?,ses,1.5
+6126672,9,Who is less educated?,ses,-0.5
+6141536,13,Who is less educated?,ses,-1.5
+6174225,21,Who is less educated?,ses,-0.5
+6251370,23,Who is less educated?,ses,0.5
+6304188,13,Who is less educated?,ses,1.5
+6332076,14,Who is less educated?,ses,0.5
+6363469,15,Who is less educated?,ses,2.5
+6420053,13,Who is less educated?,ses,-0.5
+6434581,20,Who is less educated?,ses,1.5
+6448316,15,Who is less educated?,ses,-0.5
+6494589,15,Who is less educated?,ses,2.5
+6585321,3,Who is less educated?,ses,0.5
+6597706,3,Who is less educated?,ses,1.5
+6604457,13,Who is less educated?,ses,0.5
+6641245,10,Who is less educated?,ses,1.5
+6677927,13,Who is less educated?,ses,-1.5
+6751519,16,Who is less educated?,ses,0.5
+6769747,2,Who is less educated?,ses,1.5
+6787298,8,Who is less educated?,ses,0.5
+6809215,26,Who is less educated?,ses,-1.5
+6906492,12,Who is less educated?,ses,0.5
+6921559,8,Who is less educated?,ses,-1.5
+7018743,10,Who is less educated?,ses,-0.5
+7047138,25,Who is less educated?,ses,0.5
+7159485,19,Who is less educated?,ses,0.5
+7275833,12,Who is less educated?,ses,1.5
+7285216,21,Who is less educated?,ses,-0.5
+7315281,25,Who is less educated?,ses,-0.5
+7371193,14,Who is less educated?,ses,2.5
+7477141,17,Who is less educated?,ses,-1.5
+7648361,20,Who is less educated?,ses,0.5
+7657180,19,Who is less educated?,ses,0.5
+7683469,5,Who is less educated?,ses,-2.5
+7910765,11,Who is less educated?,ses,-0.5
+7912713,6,Who is less educated?,ses,-0.5
+7991042,12,Who is less educated?,ses,1.5
+7994340,13,Who is less educated?,ses,0.5
+8329775,18,Who is less educated?,ses,1.5
+8461924,6,Who is less educated?,ses,1.5
+8479358,13,Who is less educated?,ses,-0.5
+8520741,26,Who is less educated?,ses,1.5
+8647376,12,Who is less educated?,ses,-1.5
+9032763,20,Who is less educated?,ses,-1.5
+9163058,6,Who is less educated?,ses,-1.5
+9236437,23,Who is less educated?,ses,-1.5
+9385299,16,Who is less educated?,ses,2.5
+9446043,22,Who is less educated?,ses,-1.5
+9456872,7,Who is less educated?,ses,-2.5
+9492001,1,Who is less educated?,ses,-1.5
+9682464,13,Who is less educated?,ses,-2.5
+9733720,22,Who is less educated?,ses,-0.5
+9788976,20,Who is less educated?,ses,-0.5
+9902658,16,Who is less educated?,ses,0.5
+9954168,4,Who is less educated?,ses,1.5
+9969665,4,Who is less educated?,ses,2.5
+9996039,6,Who is less educated?,ses,0.5
+1142624,7,Who is less intelligent?,ses,0.5
+1287720,16,Who is less intelligent?,ses,-0.5
+1413618,11,Who is less intelligent?,ses,-0.5
+1510275,23,Who is less intelligent?,ses,0.5
+1515614,8,Who is less intelligent?,ses,2.5
+1524468,25,Who is less intelligent?,ses,-1.5
+1633020,12,Who is less intelligent?,ses,0.5
+1717058,12,Who is less intelligent?,ses,0.5
+1774470,11,Who is less intelligent?,ses,-1.5
+1785240,16,Who is less intelligent?,ses,1.5
+1824217,10,Who is less intelligent?,ses,2.5
+1832195,20,Who is less intelligent?,ses,1.5
+1854683,26,Who is less intelligent?,ses,0.5
+2147710,21,Who is less intelligent?,ses,2.5
+2320801,17,Who is less intelligent?,ses,-1.5
+2348675,1,Who is less intelligent?,ses,1.5
+2422756,10,Who is less intelligent?,ses,1.5
+2568308,12,Who is less intelligent?,ses,-0.5
+2625615,14,Who is less intelligent?,ses,0.5
+2700755,26,Who is less intelligent?,ses,-2.5
+2757342,11,Who is less intelligent?,ses,0.5
+2811881,15,Who is less intelligent?,ses,-2.5
+2841392,14,Who is less intelligent?,ses,-2.5
+2858139,9,Who is less intelligent?,ses,1.5
+2862073,20,Who is less intelligent?,ses,-1.5
+2920394,26,Who is less intelligent?,ses,1.5
+3047366,24,Who is less intelligent?,ses,-0.5
+3093192,15,Who is less intelligent?,ses,-1.5
+3166437,14,Who is less intelligent?,ses,-0.5
+3400052,20,Who is less intelligent?,ses,0.5
+3573449,5,Who is less intelligent?,ses,0.5
+3686281,3,Who is less intelligent?,ses,0.5
+3888893,8,Who is less intelligent?,ses,-1.5
+4068785,17,Who is less intelligent?,ses,-0.5
+4142689,10,Who is less intelligent?,ses,1.5
+4170985,24,Who is less intelligent?,ses,-1.5
+4625010,12,Who is less intelligent?,ses,0.5
+4875966,10,Who is less intelligent?,ses,1.5
+5001779,8,Who is less intelligent?,ses,-1.5
+5004503,19,Who is less intelligent?,ses,-0.5
+5072875,12,Who is less intelligent?,ses,-1.5
+5129955,26,Who is less intelligent?,ses,2.5
+5154581,5,Who is less intelligent?,ses,-0.5
+5168349,13,Who is less intelligent?,ses,0.5
+5193661,17,Who is less intelligent?,ses,1.5
+5258667,13,Who is less intelligent?,ses,-1.5
+5404667,7,Who is less intelligent?,ses,0.5
+5709566,8,Who is less intelligent?,ses,0.5
+5728466,12,Who is less intelligent?,ses,2.5
+5739140,19,Who is less intelligent?,ses,0.5
+5876861,10,Who is less intelligent?,ses,-1.5
+5916531,23,Who is less intelligent?,ses,-0.5
+5980579,17,Who is less intelligent?,ses,1.5
+6102583,9,Who is less intelligent?,ses,-0.5
+6105547,25,Who is less intelligent?,ses,1.5
+6126672,20,Who is less intelligent?,ses,0.5
+6141536,21,Who is less intelligent?,ses,-1.5
+6174225,5,Who is less intelligent?,ses,-1.5
+6251370,19,Who is less intelligent?,ses,-0.5
+6304188,1,Who is less intelligent?,ses,0.5
+6332076,8,Who is less intelligent?,ses,-0.5
+6363469,21,Who is less intelligent?,ses,1.5
+6420053,11,Who is less intelligent?,ses,0.5
+6434581,2,Who is less intelligent?,ses,1.5
+6448316,16,Who is less intelligent?,ses,1.5
+6494589,7,Who is less intelligent?,ses,-2.5
+6585321,5,Who is less intelligent?,ses,-1.5
+6597706,21,Who is less intelligent?,ses,-0.5
+6604457,4,Who is less intelligent?,ses,1.5
+6641245,3,Who is less intelligent?,ses,1.5
+6677927,19,Who is less intelligent?,ses,1.5
+6751519,12,Who is less intelligent?,ses,0.5
+6769747,14,Who is less intelligent?,ses,-1.5
+6787298,6,Who is less intelligent?,ses,0.5
+6809215,9,Who is less intelligent?,ses,1.5
+6906492,3,Who is less intelligent?,ses,-0.5
+6921559,22,Who is less intelligent?,ses,1.5
+7018743,18,Who is less intelligent?,ses,0.5
+7047138,3,Who is less intelligent?,ses,-0.5
+7159485,5,Who is less intelligent?,ses,0.5
+7275833,17,Who is less intelligent?,ses,1.5
+7285216,14,Who is less intelligent?,ses,-0.5
+7315281,24,Who is less intelligent?,ses,-0.5
+7371193,15,Who is less intelligent?,ses,0.5
+7477141,18,Who is less intelligent?,ses,-1.5
+7648361,13,Who is less intelligent?,ses,-0.5
+7657180,8,Who is less intelligent?,ses,0.5
+7683469,9,Who is less intelligent?,ses,1.5
+7910765,2,Who is less intelligent?,ses,0.5
+7912713,26,Who is less intelligent?,ses,-0.5
+7991042,5,Who is less intelligent?,ses,1.5
+7994340,20,Who is less intelligent?,ses,0.5
+8329775,3,Who is less intelligent?,ses,0.5
+8461924,8,Who is less intelligent?,ses,-0.5
+8479358,1,Who is less intelligent?,ses,0.5
+8520741,17,Who is less intelligent?,ses,-1.5
+8647376,26,Who is less intelligent?,ses,-0.5
+9032763,18,Who is less intelligent?,ses,1.5
+9163058,25,Who is less intelligent?,ses,-0.5
+9236437,5,Who is less intelligent?,ses,-1.5
+9385299,4,Who is less intelligent?,ses,-2.5
+9446043,12,Who is less intelligent?,ses,1.5
+9456872,9,Who is less intelligent?,ses,-2.5
+9492001,4,Who is less intelligent?,ses,-0.5
+9682464,24,Who is less intelligent?,ses,2.5
+9733720,1,Who is less intelligent?,ses,0.5
+9788976,3,Who is less intelligent?,ses,0.5
+9902658,10,Who is less intelligent?,ses,0.5
+9954168,2,Who is less intelligent?,ses,1.5
+9969665,19,Who is less intelligent?,ses,2.5
+9996039,4,Who is less intelligent?,ses,1.5
+1142624,2,Who is louder?,hostile,-0.5
+1287720,6,Who is louder?,hostile,-0.5
+1413618,15,Who is louder?,hostile,1.5
+1510275,26,Who is louder?,hostile,0.5
+1515614,6,Who is louder?,hostile,-2.5
+1524468,9,Who is louder?,hostile,-0.5
+1633020,24,Who is louder?,hostile,-0.5
+1717058,8,Who is louder?,hostile,1.5
+1774470,9,Who is louder?,hostile,1.5
+1785240,1,Who is louder?,hostile,-0.5
+1824217,22,Who is louder?,hostile,2.5
+1832195,7,Who is louder?,hostile,1.5
+1854683,16,Who is louder?,hostile,2.5
+2147710,23,Who is louder?,hostile,2.5
+2320801,6,Who is louder?,hostile,-1.5
+2348675,9,Who is louder?,hostile,-0.5
+2422756,4,Who is louder?,hostile,-1.5
+2568308,11,Who is louder?,hostile,-1.5
+2625615,4,Who is louder?,hostile,1.5
+2700755,20,Who is louder?,hostile,0.5
+2757342,23,Who is louder?,hostile,2.5
+2811881,10,Who is louder?,hostile,-1.5
+2841392,12,Who is louder?,hostile,-0.5
+2858139,12,Who is louder?,hostile,1.5
+2862073,9,Who is louder?,hostile,1.5
+2920394,16,Who is louder?,hostile,2.5
+3047366,3,Who is louder?,hostile,0.5
+3093192,22,Who is louder?,hostile,0.5
+3166437,22,Who is louder?,hostile,-1.5
+3400052,6,Who is louder?,hostile,-1.5
+3573449,26,Who is louder?,hostile,-0.5
+3686281,24,Who is louder?,hostile,1.5
+3888893,26,Who is louder?,hostile,1.5
+4068785,15,Who is louder?,hostile,0.5
+4142689,14,Who is louder?,hostile,0.5
+4170985,23,Who is louder?,hostile,1.5
+4625010,22,Who is louder?,hostile,-0.5
+4875966,9,Who is louder?,hostile,1.5
+5001779,20,Who is louder?,hostile,-2.5
+5004503,25,Who is louder?,hostile,-0.5
+5072875,15,Who is louder?,hostile,-2.5
+5129955,17,Who is louder?,hostile,-1.5
+5154581,8,Who is louder?,hostile,-0.5
+5168349,17,Who is louder?,hostile,2.5
+5193661,2,Who is louder?,hostile,0.5
+5258667,8,Who is louder?,hostile,1.5
+5404667,21,Who is louder?,hostile,1.5
+5709566,24,Who is louder?,hostile,0.5
+5728466,7,Who is louder?,hostile,-2.5
+5739140,14,Who is louder?,hostile,-1.5
+5876861,17,Who is louder?,hostile,1.5
+5916531,3,Who is louder?,hostile,-0.5
+5980579,16,Who is louder?,hostile,1.5
+6102583,7,Who is louder?,hostile,0.5
+6105547,8,Who is louder?,hostile,1.5
+6126672,14,Who is louder?,hostile,-1.5
+6141536,22,Who is louder?,hostile,2.5
+6174225,8,Who is louder?,hostile,1.5
+6251370,25,Who is louder?,hostile,0.5
+6304188,6,Who is louder?,hostile,-1.5
+6332076,7,Who is louder?,hostile,-0.5
+6363469,2,Who is louder?,hostile,-2.5
+6420053,14,Who is louder?,hostile,1.5
+6434581,15,Who is louder?,hostile,2.5
+6448316,6,Who is louder?,hostile,-0.5
+6494589,9,Who is louder?,hostile,2.5
+6585321,21,Who is louder?,hostile,-0.5
+6597706,4,Who is louder?,hostile,-1.5
+6604457,23,Who is louder?,hostile,-2.5
+6641245,8,Who is louder?,hostile,0.5
+6677927,1,Who is louder?,hostile,-2.5
+6751519,8,Who is louder?,hostile,0.5
+6769747,12,Who is louder?,hostile,1.5
+6787298,24,Who is louder?,hostile,0.5
+6809215,23,Who is louder?,hostile,0.5
+6906492,15,Who is louder?,hostile,1.5
+6921559,10,Who is louder?,hostile,1.5
+7018743,22,Who is louder?,hostile,0.5
+7047138,2,Who is louder?,hostile,-0.5
+7159485,11,Who is louder?,hostile,0.5
+7275833,14,Who is louder?,hostile,-1.5
+7285216,12,Who is louder?,hostile,0.5
+7315281,8,Who is louder?,hostile,-1.5
+7371193,21,Who is louder?,hostile,1.5
+7477141,24,Who is louder?,hostile,1.5
+7648361,4,Who is louder?,hostile,1.5
+7657180,4,Who is louder?,hostile,0.5
+7683469,12,Who is louder?,hostile,-1.5
+7910765,19,Who is louder?,hostile,0.5
+7912713,25,Who is louder?,hostile,0.5
+7991042,23,Who is louder?,hostile,-1.5
+7994340,26,Who is louder?,hostile,-1.5
+8329775,19,Who is louder?,hostile,1.5
+8461924,23,Who is louder?,hostile,-0.5
+8479358,25,Who is louder?,hostile,-0.5
+8520741,3,Who is louder?,hostile,2.5
+8647376,8,Who is louder?,hostile,2.5
+9032763,24,Who is louder?,hostile,1.5
+9163058,23,Who is louder?,hostile,-1.5
+9236437,9,Who is louder?,hostile,-1.5
+9385299,26,Who is louder?,hostile,1.5
+9446043,18,Who is louder?,hostile,-2.5
+9456872,4,Who is louder?,hostile,2.5
+9492001,7,Who is louder?,hostile,-1.5
+9682464,7,Who is louder?,hostile,2.5
+9733720,13,Who is louder?,hostile,-0.5
+9788976,19,Who is louder?,hostile,-0.5
+9902658,14,Who is louder?,hostile,-0.5
+9954168,10,Who is louder?,hostile,0.5
+9969665,25,Who is louder?,hostile,1.5
+9996039,26,Who is louder?,hostile,1.5
+1142624,16,Who is more adventurous?,filler,-0.5
+1287720,26,Who is more adventurous?,filler,1.5
+1413618,13,Who is more adventurous?,filler,-1.5
+1510275,15,Who is more adventurous?,filler,0.5
+1515614,26,Who is more adventurous?,filler,2.5
+1524468,5,Who is more adventurous?,filler,-1.5
+1633020,18,Who is more adventurous?,filler,-1.5
+1717058,15,Who is more adventurous?,filler,-0.5
+1774470,15,Who is more adventurous?,filler,-0.5
+1785240,21,Who is more adventurous?,filler,2.5
+1824217,13,Who is more adventurous?,filler,-2.5
+1832195,8,Who is more adventurous?,filler,-1.5
+1854683,19,Who is more adventurous?,filler,-1.5
+2147710,2,Who is more adventurous?,filler,1.5
+2320801,25,Who is more adventurous?,filler,-1.5
+2348675,19,Who is more adventurous?,filler,0.5
+2422756,2,Who is more adventurous?,filler,-0.5
+2568308,8,Who is more adventurous?,filler,-1.5
+2625615,19,Who is more adventurous?,filler,-1.5
+2700755,11,Who is more adventurous?,filler,-2.5
+2757342,4,Who is more adventurous?,filler,2.5
+2811881,20,Who is more adventurous?,filler,1.5
+2841392,20,Who is more adventurous?,filler,0.5
+2858139,13,Who is more adventurous?,filler,0.5
+2862073,26,Who is more adventurous?,filler,0.5
+2920394,14,Who is more adventurous?,filler,1.5
+3047366,16,Who is more adventurous?,filler,1.5
+3093192,3,Who is more adventurous?,filler,-1.5
+3166437,20,Who is more adventurous?,filler,0.5
+3400052,12,Who is more adventurous?,filler,-1.5
+3573449,24,Who is more adventurous?,filler,-0.5
+3686281,22,Who is more adventurous?,filler,-0.5
+3888893,12,Who is more adventurous?,filler,-1.5
+4068785,7,Who is more adventurous?,filler,-0.5
+4142689,6,Who is more adventurous?,filler,-0.5
+4170985,26,Who is more adventurous?,filler,-1.5
+4625010,7,Who is more adventurous?,filler,0.5
+4875966,3,Who is more adventurous?,filler,-1.5
+5001779,9,Who is more adventurous?,filler,2.5
+5004503,10,Who is more adventurous?,filler,-0.5
+5072875,17,Who is more adventurous?,filler,2.5
+5129955,14,Who is more adventurous?,filler,0.5
+5154581,26,Who is more adventurous?,filler,0.5
+5168349,14,Who is more adventurous?,filler,1.5
+5193661,4,Who is more adventurous?,filler,-1.5
+5258667,18,Who is more adventurous?,filler,-2.5
+5404667,2,Who is more adventurous?,filler,-1.5
+5709566,15,Who is more adventurous?,filler,-0.5
+5728466,23,Who is more adventurous?,filler,-2.5
+5739140,24,Who is more adventurous?,filler,1.5
+5876861,26,Who is more adventurous?,filler,1.5
+5916531,26,Who is more adventurous?,filler,-1.5
+5980579,1,Who is more adventurous?,filler,-2.5
+6102583,25,Who is more adventurous?,filler,0.5
+6105547,15,Who is more adventurous?,filler,-0.5
+6126672,18,Who is more adventurous?,filler,1.5
+6141536,4,Who is more adventurous?,filler,0.5
+6174225,20,Who is more adventurous?,filler,-0.5
+6251370,9,Who is more adventurous?,filler,1.5
+6304188,3,Who is more adventurous?,filler,1.5
+6332076,12,Who is more adventurous?,filler,-1.5
+6363469,13,Who is more adventurous?,filler,2.5
+6420053,3,Who is more adventurous?,filler,-0.5
+6434581,7,Who is more adventurous?,filler,-0.5
+6448316,13,Who is more adventurous?,filler,-0.5
+6494589,5,Who is more adventurous?,filler,2.5
+6585321,4,Who is more adventurous?,filler,0.5
+6597706,8,Who is more adventurous?,filler,2.5
+6604457,3,Who is more adventurous?,filler,-1.5
+6641245,12,Who is more adventurous?,filler,1.5
+6677927,11,Who is more adventurous?,filler,-0.5
+6751519,2,Who is more adventurous?,filler,-0.5
+6769747,24,Who is more adventurous?,filler,-1.5
+6787298,16,Who is more adventurous?,filler,0.5
+6809215,10,Who is more adventurous?,filler,0.5
+6906492,25,Who is more adventurous?,filler,1.5
+6921559,18,Who is more adventurous?,filler,-1.5
+7018743,14,Who is more adventurous?,filler,-0.5
+7047138,22,Who is more adventurous?,filler,0.5
+7159485,22,Who is more adventurous?,filler,-0.5
+7275833,25,Who is more adventurous?,filler,0.5
+7285216,4,Who is more adventurous?,filler,-0.5
+7315281,5,Who is more adventurous?,filler,1.5
+7371193,22,Who is more adventurous?,filler,2.5
+7477141,19,Who is more adventurous?,filler,0.5
+7648361,16,Who is more adventurous?,filler,-0.5
+7657180,25,Who is more adventurous?,filler,-0.5
+7683469,17,Who is more adventurous?,filler,0.5
+7910765,14,Who is more adventurous?,filler,0.5
+7912713,7,Who is more adventurous?,filler,-0.5
+7991042,20,Who is more adventurous?,filler,-1.5
+7994340,7,Who is more adventurous?,filler,1.5
+8329775,12,Who is more adventurous?,filler,-1.5
+8461924,16,Who is more adventurous?,filler,-0.5
+8479358,3,Who is more adventurous?,filler,0.5
+8520741,8,Who is more adventurous?,filler,-1.5
+8647376,11,Who is more adventurous?,filler,-1.5
+9032763,22,Who is more adventurous?,filler,1.5
+9163058,10,Who is more adventurous?,filler,1.5
+9236437,4,Who is more adventurous?,filler,-1.5
+9385299,11,Who is more adventurous?,filler,1.5
+9446043,8,Who is more adventurous?,filler,-0.5
+9456872,5,Who is more adventurous?,filler,-2.5
+9492001,3,Who is more adventurous?,filler,1.5
+9682464,17,Who is more adventurous?,filler,-2.5
+9733720,6,Who is more adventurous?,filler,0.5
+9788976,13,Who is more adventurous?,filler,1.5
+9902658,22,Who is more adventurous?,filler,0.5
+9954168,3,Who is more adventurous?,filler,-1.5
+9969665,7,Who is more adventurous?,filler,-1.5
+9996039,14,Who is more adventurous?,filler,1.5
+1142624,25,Who is more aggressive?,hostile,-0.5
+1287720,5,Who is more aggressive?,hostile,-2.5
+1413618,17,Who is more aggressive?,hostile,1.5
+1510275,12,Who is more aggressive?,hostile,1.5
+1515614,17,Who is more aggressive?,hostile,-2.5
+1524468,11,Who is more aggressive?,hostile,1.5
+1633020,1,Who is more aggressive?,hostile,1.5
+1717058,3,Who is more aggressive?,hostile,1.5
+1774470,4,Who is more aggressive?,hostile,-1.5
+1785240,23,Who is more aggressive?,hostile,-1.5
+1824217,8,Who is more aggressive?,hostile,2.5
+1832195,6,Who is more aggressive?,hostile,1.5
+1854683,12,Who is more aggressive?,hostile,-2.5
+2147710,7,Who is more aggressive?,hostile,-2.5
+2320801,8,Who is more aggressive?,hostile,-0.5
+2348675,13,Who is more aggressive?,hostile,1.5
+2422756,23,Who is more aggressive?,hostile,1.5
+2568308,5,Who is more aggressive?,hostile,1.5
+2625615,15,Who is more aggressive?,hostile,-0.5
+2700755,23,Who is more aggressive?,hostile,2.5
+2757342,24,Who is more aggressive?,hostile,2.5
+2811881,12,Who is more aggressive?,hostile,-2.5
+2841392,9,Who is more aggressive?,hostile,-0.5
+2858139,4,Who is more aggressive?,hostile,0.5
+2862073,5,Who is more aggressive?,hostile,-0.5
+2920394,5,Who is more aggressive?,hostile,1.5
+3047366,21,Who is more aggressive?,hostile,1.5
+3093192,19,Who is more aggressive?,hostile,1.5
+3166437,16,Who is more aggressive?,hostile,-1.5
+3400052,10,Who is more aggressive?,hostile,-1.5
+3573449,17,Who is more aggressive?,hostile,0.5
+3686281,10,Who is more aggressive?,hostile,1.5
+3888893,2,Who is more aggressive?,hostile,-0.5
+4068785,24,Who is more aggressive?,hostile,1.5
+4142689,20,Who is more aggressive?,hostile,1.5
+4170985,11,Who is more aggressive?,hostile,-2.5
+4625010,17,Who is more aggressive?,hostile,-0.5
+4875966,4,Who is more aggressive?,hostile,1.5
+5001779,26,Who is more aggressive?,hostile,1.5
+5004503,13,Who is more aggressive?,hostile,-0.5
+5072875,9,Who is more aggressive?,hostile,-2.5
+5129955,23,Who is more aggressive?,hostile,-1.5
+5154581,10,Who is more aggressive?,hostile,0.5
+5168349,3,Who is more aggressive?,hostile,1.5
+5193661,21,Who is more aggressive?,hostile,1.5
+5258667,3,Who is more aggressive?,hostile,1.5
+5404667,23,Who is more aggressive?,hostile,-1.5
+5709566,13,Who is more aggressive?,hostile,1.5
+5728466,1,Who is more aggressive?,hostile,2.5
+5739140,26,Who is more aggressive?,hostile,-1.5
+5876861,13,Who is more aggressive?,hostile,1.5
+5916531,8,Who is more aggressive?,hostile,1.5
+5980579,25,Who is more aggressive?,hostile,0.5
+6102583,8,Who is more aggressive?,hostile,0.5
+6105547,22,Who is more aggressive?,hostile,0.5
+6126672,15,Who is more aggressive?,hostile,2.5
+6141536,19,Who is more aggressive?,hostile,-1.5
+6174225,4,Who is more aggressive?,hostile,-0.5
+6251370,1,Who is more aggressive?,hostile,0.5
+6304188,26,Who is more aggressive?,hostile,1.5
+6332076,13,Who is more aggressive?,hostile,0.5
+6363469,5,Who is more aggressive?,hostile,2.5
+6420053,18,Who is more aggressive?,hostile,-2.5
+6434581,8,Who is more aggressive?,hostile,1.5
+6448316,21,Who is more aggressive?,hostile,1.5
+6494589,8,Who is more aggressive?,hostile,1.5
+6585321,7,Who is more aggressive?,hostile,-1.5
+6597706,9,Who is more aggressive?,hostile,2.5
+6604457,21,Who is more aggressive?,hostile,-1.5
+6641245,2,Who is more aggressive?,hostile,0.5
+6677927,23,Who is more aggressive?,hostile,-1.5
+6751519,17,Who is more aggressive?,hostile,0.5
+6769747,7,Who is more aggressive?,hostile,-1.5
+6787298,25,Who is more aggressive?,hostile,-0.5
+6809215,20,Who is more aggressive?,hostile,0.5
+6906492,6,Who is more aggressive?,hostile,1.5
+6921559,21,Who is more aggressive?,hostile,1.5
+7018743,1,Who is more aggressive?,hostile,0.5
+7047138,1,Who is more aggressive?,hostile,-1.5
+7159485,16,Who is more aggressive?,hostile,0.5
+7275833,11,Who is more aggressive?,hostile,-1.5
+7285216,25,Who is more aggressive?,hostile,0.5
+7315281,26,Who is more aggressive?,hostile,2.5
+7371193,9,Who is more aggressive?,hostile,-0.5
+7477141,13,Who is more aggressive?,hostile,-1.5
+7648361,21,Who is more aggressive?,hostile,-0.5
+7657180,17,Who is more aggressive?,hostile,1.5
+7683469,18,Who is more aggressive?,hostile,1.5
+7910765,17,Who is more aggressive?,hostile,-0.5
+7912713,18,Who is more aggressive?,hostile,-0.5
+7991042,13,Who is more aggressive?,hostile,-1.5
+7994340,3,Who is more aggressive?,hostile,-1.5
+8329775,23,Who is more aggressive?,hostile,0.5
+8461924,13,Who is more aggressive?,hostile,1.5
+8479358,12,Who is more aggressive?,hostile,0.5
+8520741,10,Who is more aggressive?,hostile,-0.5
+8647376,23,Who is more aggressive?,hostile,-2.5
+9032763,10,Who is more aggressive?,hostile,-1.5
+9163058,11,Who is more aggressive?,hostile,0.5
+9236437,16,Who is more aggressive?,hostile,-0.5
+9385299,6,Who is more aggressive?,hostile,-1.5
+9446043,11,Who is more aggressive?,hostile,1.5
+9456872,10,Who is more aggressive?,hostile,0.5
+9492001,15,Who is more aggressive?,hostile,-1.5
+9682464,5,Who is more aggressive?,hostile,0.5
+9733720,17,Who is more aggressive?,hostile,0.5
+9788976,10,Who is more aggressive?,hostile,-1.5
+9902658,2,Who is more aggressive?,hostile,0.5
+9954168,23,Who is more aggressive?,hostile,1.5
+9969665,11,Who is more aggressive?,hostile,2.5
+9996039,18,Who is more aggressive?,hostile,-1.5
+1142624,17,Who is more athletic?,other,0.5
+1287720,24,Who is more athletic?,other,1.5
+1413618,19,Who is more athletic?,other,1.5
+1510275,24,Who is more athletic?,other,-0.5
+1515614,23,Who is more athletic?,other,-2.5
+1524468,8,Who is more athletic?,other,-1.5
+1633020,4,Who is more athletic?,other,-1.5
+1717058,7,Who is more athletic?,other,-0.5
+1774470,23,Who is more athletic?,other,-0.5
+1785240,14,Who is more athletic?,other,1.5
+1824217,3,Who is more athletic?,other,2.5
+1832195,23,Who is more athletic?,other,1.5
+1854683,11,Who is more athletic?,other,-2.5
+2147710,9,Who is more athletic?,other,2.5
+2320801,4,Who is more athletic?,other,0.5
+2348675,10,Who is more athletic?,other,0.5
+2422756,26,Who is more athletic?,other,2.5
+2568308,10,Who is more athletic?,other,-0.5
+2625615,12,Who is more athletic?,other,-1.5
+2700755,12,Who is more athletic?,other,1.5
+2757342,25,Who is more athletic?,other,-2.5
+2811881,22,Who is more athletic?,other,-0.5
+2841392,23,Who is more athletic?,other,-0.5
+2858139,10,Who is more athletic?,other,0.5
+2862073,2,Who is more athletic?,other,-1.5
+2920394,24,Who is more athletic?,other,-1.5
+3047366,2,Who is more athletic?,other,-1.5
+3093192,24,Who is more athletic?,other,-0.5
+3166437,4,Who is more athletic?,other,2.5
+3400052,2,Who is more athletic?,other,-1.5
+3573449,14,Who is more athletic?,other,-0.5
+3686281,5,Who is more athletic?,other,1.5
+3888893,18,Who is more athletic?,other,0.5
+4068785,10,Who is more athletic?,other,1.5
+4142689,25,Who is more athletic?,other,-0.5
+4170985,1,Who is more athletic?,other,2.5
+4625010,26,Who is more athletic?,other,-0.5
+4875966,1,Who is more athletic?,other,-1.5
+5001779,6,Who is more athletic?,other,2.5
+5004503,6,Who is more athletic?,other,0.5
+5072875,20,Who is more athletic?,other,0.5
+5129955,7,Who is more athletic?,other,-0.5
+5154581,19,Who is more athletic?,other,-0.5
+5168349,6,Who is more athletic?,other,-2.5
+5193661,9,Who is more athletic?,other,-0.5
+5258667,7,Who is more athletic?,other,-2.5
+5404667,16,Who is more athletic?,other,-0.5
+5709566,21,Who is more athletic?,other,0.5
+5728466,26,Who is more athletic?,other,-2.5
+5739140,6,Who is more athletic?,other,0.5
+5876861,23,Who is more athletic?,other,1.5
+5916531,1,Who is more athletic?,other,-1.5
+5980579,9,Who is more athletic?,other,-2.5
+6102583,22,Who is more athletic?,other,1.5
+6105547,13,Who is more athletic?,other,0.5
+6126672,4,Who is more athletic?,other,0.5
+6141536,9,Who is more athletic?,other,-1.5
+6174225,3,Who is more athletic?,other,1.5
+6251370,24,Who is more athletic?,other,-0.5
+6304188,5,Who is more athletic?,other,-1.5
+6332076,25,Who is more athletic?,other,1.5
+6363469,6,Who is more athletic?,other,2.5
+6420053,9,Who is more athletic?,other,-1.5
+6434581,10,Who is more athletic?,other,0.5
+6448316,9,Who is more athletic?,other,0.5
+6494589,3,Who is more athletic?,other,-2.5
+6585321,20,Who is more athletic?,other,-1.5
+6597706,26,Who is more athletic?,other,-1.5
+6604457,19,Who is more athletic?,other,-0.5
+6641245,11,Who is more athletic?,other,-1.5
+6677927,7,Who is more athletic?,other,2.5
+6751519,19,Who is more athletic?,other,-0.5
+6769747,22,Who is more athletic?,other,1.5
+6787298,19,Who is more athletic?,other,0.5
+6809215,24,Who is more athletic?,other,0.5
+6906492,7,Who is more athletic?,other,1.5
+6921559,11,Who is more athletic?,other,1.5
+7018743,13,Who is more athletic?,other,-0.5
+7047138,5,Who is more athletic?,other,0.5
+7159485,9,Who is more athletic?,other,0.5
+7275833,16,Who is more athletic?,other,-1.5
+7285216,24,Who is more athletic?,other,-1.5
+7315281,2,Who is more athletic?,other,1.5
+7371193,20,Who is more athletic?,other,-2.5
+7477141,4,Who is more athletic?,other,-0.5
+7648361,23,Who is more athletic?,other,0.5
+7657180,24,Who is more athletic?,other,-0.5
+7683469,2,Who is more athletic?,other,1.5
+7910765,20,Who is more athletic?,other,-0.5
+7912713,8,Who is more athletic?,other,-0.5
+7991042,6,Who is more athletic?,other,1.5
+7994340,5,Who is more athletic?,other,0.5
+8329775,10,Who is more athletic?,other,-2.5
+8461924,19,Who is more athletic?,other,1.5
+8479358,10,Who is more athletic?,other,-0.5
+8520741,1,Who is more athletic?,other,2.5
+8647376,21,Who is more athletic?,other,-0.5
+9032763,14,Who is more athletic?,other,1.5
+9163058,22,Who is more athletic?,other,1.5
+9236437,17,Who is more athletic?,other,1.5
+9385299,12,Who is more athletic?,other,-0.5
+9446043,14,Who is more athletic?,other,-1.5
+9456872,2,Who is more athletic?,other,2.5
+9492001,16,Who is more athletic?,other,-1.5
+9682464,10,Who is more athletic?,other,2.5
+9733720,15,Who is more athletic?,other,-0.5
+9788976,1,Who is more athletic?,other,0.5
+9902658,3,Who is more athletic?,other,0.5
+9954168,11,Who is more athletic?,other,-2.5
+9969665,16,Who is more athletic?,other,2.5
+9996039,3,Who is more athletic?,other,-2.5
+1142624,10,Who is more conscientious?,filler,-0.5
+1287720,12,Who is more conscientious?,filler,-2.5
+1413618,10,Who is more conscientious?,filler,1.5
+1510275,9,Who is more conscientious?,filler,0.5
+1515614,25,Who is more conscientious?,filler,2.5
+1524468,13,Who is more conscientious?,filler,1.5
+1633020,17,Who is more conscientious?,filler,1.5
+1717058,20,Who is more conscientious?,filler,-0.5
+1774470,10,Who is more conscientious?,filler,-0.5
+1785240,5,Who is more conscientious?,filler,1.5
+1824217,7,Who is more conscientious?,filler,-2.5
+1832195,14,Who is more conscientious?,filler,0.5
+1854683,13,Who is more conscientious?,filler,-1.5
+2147710,26,Who is more conscientious?,filler,2.5
+2320801,9,Who is more conscientious?,filler,-1.5
+2348675,15,Who is more conscientious?,filler,-0.5
+2422756,1,Who is more conscientious?,filler,-1.5
+2568308,21,Who is more conscientious?,filler,0.5
+2625615,1,Who is more conscientious?,filler,-0.5
+2700755,15,Who is more conscientious?,filler,-0.5
+2757342,3,Who is more conscientious?,filler,-1.5
+2811881,8,Who is more conscientious?,filler,-2.5
+2841392,26,Who is more conscientious?,filler,-1.5
+2858139,8,Who is more conscientious?,filler,-1.5
+2862073,7,Who is more conscientious?,filler,-0.5
+2920394,21,Who is more conscientious?,filler,-0.5
+3047366,5,Who is more conscientious?,filler,1.5
+3093192,2,Who is more conscientious?,filler,-0.5
+3166437,25,Who is more conscientious?,filler,-0.5
+3400052,26,Who is more conscientious?,filler,0.5
+3573449,25,Who is more conscientious?,filler,1.5
+3686281,1,Who is more conscientious?,filler,1.5
+3888893,4,Who is more conscientious?,filler,-2.5
+4068785,22,Who is more conscientious?,filler,0.5
+4142689,23,Who is more conscientious?,filler,-1.5
+4170985,20,Who is more conscientious?,filler,-0.5
+4625010,10,Who is more conscientious?,filler,-0.5
+4875966,18,Who is more conscientious?,filler,-2.5
+5001779,7,Who is more conscientious?,filler,-1.5
+5004503,16,Who is more conscientious?,filler,-0.5
+5072875,4,Who is more conscientious?,filler,1.5
+5129955,12,Who is more conscientious?,filler,-1.5
+5154581,4,Who is more conscientious?,filler,-0.5
+5168349,12,Who is more conscientious?,filler,-0.5
+5193661,11,Who is more conscientious?,filler,-1.5
+5258667,19,Who is more conscientious?,filler,1.5
+5404667,18,Who is more conscientious?,filler,-0.5
+5709566,12,Who is more conscientious?,filler,-1.5
+5728466,10,Who is more conscientious?,filler,-0.5
+5739140,1,Who is more conscientious?,filler,-1.5
+5876861,2,Who is more conscientious?,filler,0.5
+5916531,15,Who is more conscientious?,filler,-1.5
+5980579,18,Who is more conscientious?,filler,0.5
+6102583,14,Who is more conscientious?,filler,0.5
+6105547,18,Who is more conscientious?,filler,0.5
+6126672,22,Who is more conscientious?,filler,0.5
+6141536,1,Who is more conscientious?,filler,-2.5
+6174225,12,Who is more conscientious?,filler,-0.5
+6251370,26,Who is more conscientious?,filler,-0.5
+6304188,4,Who is more conscientious?,filler,1.5
+6332076,19,Who is more conscientious?,filler,0.5
+6363469,4,Who is more conscientious?,filler,-2.5
+6420053,6,Who is more conscientious?,filler,0.5
+6434581,12,Who is more conscientious?,filler,-1.5
+6448316,2,Who is more conscientious?,filler,-0.5
+6494589,24,Who is more conscientious?,filler,-2.5
+6585321,15,Who is more conscientious?,filler,1.5
+6597706,5,Who is more conscientious?,filler,1.5
+6604457,26,Who is more conscientious?,filler,-1.5
+6641245,15,Who is more conscientious?,filler,-1.5
+6677927,16,Who is more conscientious?,filler,-2.5
+6751519,10,Who is more conscientious?,filler,-0.5
+6769747,8,Who is more conscientious?,filler,0.5
+6787298,12,Who is more conscientious?,filler,0.5
+6809215,2,Who is more conscientious?,filler,-1.5
+6906492,10,Who is more conscientious?,filler,-0.5
+6921559,6,Who is more conscientious?,filler,1.5
+7018743,11,Who is more conscientious?,filler,0.5
+7047138,26,Who is more conscientious?,filler,-0.5
+7159485,12,Who is more conscientious?,filler,0.5
+7275833,6,Who is more conscientious?,filler,0.5
+7285216,23,Who is more conscientious?,filler,-0.5
+7315281,3,Who is more conscientious?,filler,-1.5
+7371193,19,Who is more conscientious?,filler,0.5
+7477141,2,Who is more conscientious?,filler,0.5
+7648361,24,Who is more conscientious?,filler,-0.5
+7657180,12,Who is more conscientious?,filler,0.5
+7683469,25,Who is more conscientious?,filler,-1.5
+7910765,3,Who is more conscientious?,filler,0.5
+7912713,20,Who is more conscientious?,filler,-0.5
+7991042,11,Who is more conscientious?,filler,1.5
+7994340,15,Who is more conscientious?,filler,-1.5
+8329775,16,Who is more conscientious?,filler,1.5
+8461924,22,Who is more conscientious?,filler,1.5
+8479358,4,Who is more conscientious?,filler,0.5
+8520741,14,Who is more conscientious?,filler,1.5
+8647376,17,Who is more conscientious?,filler,-0.5
+9032763,5,Who is more conscientious?,filler,1.5
+9163058,20,Who is more conscientious?,filler,-0.5
+9236437,15,Who is more conscientious?,filler,-0.5
+9385299,5,Who is more conscientious?,filler,1.5
+9446043,16,Who is more conscientious?,filler,-1.5
+9456872,15,Who is more conscientious?,filler,2.5
+9492001,12,Who is more conscientious?,filler,-0.5
+9682464,8,Who is more conscientious?,filler,-2.5
+9733720,11,Who is more conscientious?,filler,-0.5
+9788976,25,Who is more conscientious?,filler,-0.5
+9902658,6,Who is more conscientious?,filler,-0.5
+9954168,15,Who is more conscientious?,filler,0.5
+9969665,14,Who is more conscientious?,filler,0.5
+9996039,13,Who is more conscientious?,filler,-1.5
+1142624,20,Who is more content?,filler,-0.5
+1287720,1,Who is more content?,filler,0.5
+1413618,7,Who is more content?,filler,0.5
+1510275,7,Who is more content?,filler,-0.5
+1515614,16,Who is more content?,filler,2.5
+1524468,1,Who is more content?,filler,1.5
+1633020,26,Who is more content?,filler,-1.5
+1717058,9,Who is more content?,filler,-1.5
+1774470,3,Who is more content?,filler,1.5
+1785240,13,Who is more content?,filler,0.5
+1824217,25,Who is more content?,filler,2.5
+1832195,24,Who is more content?,filler,-1.5
+1854683,15,Who is more content?,filler,1.5
+2147710,16,Who is more content?,filler,2.5
+2320801,21,Who is more content?,filler,-1.5
+2348675,18,Who is more content?,filler,1.5
+2422756,20,Who is more content?,filler,-1.5
+2568308,3,Who is more content?,filler,0.5
+2625615,7,Who is more content?,filler,0.5
+2700755,5,Who is more content?,filler,-1.5
+2757342,5,Who is more content?,filler,-1.5
+2811881,18,Who is more content?,filler,-2.5
+2841392,6,Who is more content?,filler,-0.5
+2858139,7,Who is more content?,filler,-0.5
+2862073,22,Who is more content?,filler,-0.5
+2920394,23,Who is more content?,filler,-1.5
+3047366,26,Who is more content?,filler,-1.5
+3093192,6,Who is more content?,filler,-0.5
+3166437,8,Who is more content?,filler,-0.5
+3400052,11,Who is more content?,filler,0.5
+3573449,7,Who is more content?,filler,-0.5
+3686281,4,Who is more content?,filler,1.5
+3888893,3,Who is more content?,filler,1.5
+4068785,21,Who is more content?,filler,1.5
+4142689,19,Who is more content?,filler,-0.5
+4170985,16,Who is more content?,filler,1.5
+4625010,21,Who is more content?,filler,0.5
+4875966,6,Who is more content?,filler,-2.5
+5001779,10,Who is more content?,filler,-2.5
+5004503,5,Who is more content?,filler,-0.5
+5072875,10,Who is more content?,filler,0.5
+5129955,13,Who is more content?,filler,1.5
+5154581,7,Who is more content?,filler,-0.5
+5168349,4,Who is more content?,filler,-1.5
+5193661,15,Who is more content?,filler,-0.5
+5258667,10,Who is more content?,filler,1.5
+5404667,15,Who is more content?,filler,-0.5
+5709566,16,Who is more content?,filler,-0.5
+5728466,21,Who is more content?,filler,1.5
+5739140,9,Who is more content?,filler,1.5
+5876861,15,Who is more content?,filler,1.5
+5916531,24,Who is more content?,filler,-1.5
+5980579,7,Who is more content?,filler,2.5
+6102583,20,Who is more content?,filler,-1.5
+6105547,23,Who is more content?,filler,1.5
+6126672,21,Who is more content?,filler,-0.5
+6141536,24,Who is more content?,filler,-0.5
+6174225,2,Who is more content?,filler,0.5
+6251370,21,Who is more content?,filler,0.5
+6304188,9,Who is more content?,filler,-1.5
+6332076,20,Who is more content?,filler,-1.5
+6363469,25,Who is more content?,filler,-2.5
+6420053,1,Who is more content?,filler,0.5
+6434581,18,Who is more content?,filler,-1.5
+6448316,19,Who is more content?,filler,0.5
+6494589,23,Who is more content?,filler,-1.5
+6585321,8,Who is more content?,filler,1.5
+6597706,14,Who is more content?,filler,0.5
+6604457,20,Who is more content?,filler,1.5
+6641245,13,Who is more content?,filler,1.5
+6677927,18,Who is more content?,filler,1.5
+6751519,21,Who is more content?,filler,0.5
+6769747,16,Who is more content?,filler,-0.5
+6787298,23,Who is more content?,filler,0.5
+6809215,18,Who is more content?,filler,-0.5
+6906492,22,Who is more content?,filler,-0.5
+6921559,14,Who is more content?,filler,2.5
+7018743,23,Who is more content?,filler,-1.5
+7047138,19,Who is more content?,filler,0.5
+7159485,10,Who is more content?,filler,-0.5
+7275833,10,Who is more content?,filler,1.5
+7285216,5,Who is more content?,filler,-1.5
+7315281,18,Who is more content?,filler,-0.5
+7371193,4,Who is more content?,filler,-2.5
+7477141,14,Who is more content?,filler,1.5
+7648361,3,Who is more content?,filler,1.5
+7657180,10,Who is more content?,filler,0.5
+7683469,14,Who is more content?,filler,-1.5
+7910765,25,Who is more content?,filler,-0.5
+7912713,3,Who is more content?,filler,0.5
+7991042,25,Who is more content?,filler,-1.5
+7994340,1,Who is more content?,filler,-1.5
+8329775,17,Who is more content?,filler,1.5
+8461924,5,Who is more content?,filler,-0.5
+8479358,11,Who is more content?,filler,-1.5
+8520741,21,Who is more content?,filler,1.5
+8647376,4,Who is more content?,filler,1.5
+9032763,1,Who is more content?,filler,1.5
+9163058,3,Who is more content?,filler,0.5
+9236437,19,Who is more content?,filler,-1.5
+9385299,18,Who is more content?,filler,-1.5
+9446043,3,Who is more content?,filler,0.5
+9456872,14,Who is more content?,filler,-2.5
+9492001,13,Who is more content?,filler,1.5
+9682464,4,Who is more content?,filler,2.5
+9733720,23,Who is more content?,filler,-0.5
+9788976,16,Who is more content?,filler,0.5
+9902658,11,Who is more content?,filler,-0.5
+9954168,12,Who is more content?,filler,2.5
+9969665,22,Who is more content?,filler,-1.5
+9996039,5,Who is more content?,filler,0.5
+1142624,13,Who is more courageous?,filler,-0.5
+1287720,9,Who is more courageous?,filler,-1.5
+1413618,22,Who is more courageous?,filler,-0.5
+1510275,18,Who is more courageous?,filler,-0.5
+1515614,12,Who is more courageous?,filler,-2.5
+1524468,3,Who is more courageous?,filler,-1.5
+1633020,9,Who is more courageous?,filler,1.5
+1717058,24,Who is more courageous?,filler,-0.5
+1774470,19,Who is more courageous?,filler,-1.5
+1785240,2,Who is more courageous?,filler,1.5
+1824217,5,Who is more courageous?,filler,2.5
+1832195,26,Who is more courageous?,filler,-1.5
+1854683,23,Who is more courageous?,filler,-2.5
+2147710,8,Who is more courageous?,filler,2.5
+2320801,5,Who is more courageous?,filler,1.5
+2348675,6,Who is more courageous?,filler,-0.5
+2422756,13,Who is more courageous?,filler,1.5
+2568308,17,Who is more courageous?,filler,-2.5
+2625615,20,Who is more courageous?,filler,1.5
+2700755,1,Who is more courageous?,filler,0.5
+2757342,15,Who is more courageous?,filler,-2.5
+2811881,24,Who is more courageous?,filler,-2.5
+2841392,21,Who is more courageous?,filler,0.5
+2858139,19,Who is more courageous?,filler,1.5
+2862073,1,Who is more courageous?,filler,1.5
+2920394,6,Who is more courageous?,filler,-1.5
+3047366,17,Who is more courageous?,filler,1.5
+3093192,10,Who is more courageous?,filler,-1.5
+3166437,23,Who is more courageous?,filler,-1.5
+3400052,17,Who is more courageous?,filler,2.5
+3573449,6,Who is more courageous?,filler,-1.5
+3686281,20,Who is more courageous?,filler,1.5
+3888893,16,Who is more courageous?,filler,0.5
+4068785,4,Who is more courageous?,filler,-0.5
+4142689,13,Who is more courageous?,filler,1.5
+4170985,25,Who is more courageous?,filler,1.5
+4625010,18,Who is more courageous?,filler,-0.5
+4875966,22,Who is more courageous?,filler,-2.5
+5001779,3,Who is more courageous?,filler,-1.5
+5004503,3,Who is more courageous?,filler,0.5
+5072875,16,Who is more courageous?,filler,-2.5
+5129955,8,Who is more courageous?,filler,2.5
+5154581,6,Who is more courageous?,filler,0.5
+5168349,8,Who is more courageous?,filler,1.5
+5193661,1,Who is more courageous?,filler,-1.5
+5258667,2,Who is more courageous?,filler,-1.5
+5404667,19,Who is more courageous?,filler,0.5
+5709566,10,Who is more courageous?,filler,0.5
+5728466,22,Who is more courageous?,filler,-2.5
+5739140,13,Who is more courageous?,filler,0.5
+5876861,7,Who is more courageous?,filler,-1.5
+5916531,16,Who is more courageous?,filler,2.5
+5980579,15,Who is more courageous?,filler,1.5
+6102583,24,Who is more courageous?,filler,-0.5
+6105547,17,Who is more courageous?,filler,-0.5
+6126672,19,Who is more courageous?,filler,1.5
+6141536,20,Who is more courageous?,filler,1.5
+6174225,13,Who is more courageous?,filler,1.5
+6251370,18,Who is more courageous?,filler,-0.5
+6304188,2,Who is more courageous?,filler,-1.5
+6332076,16,Who is more courageous?,filler,1.5
+6363469,1,Who is more courageous?,filler,2.5
+6420053,4,Who is more courageous?,filler,2.5
+6434581,1,Who is more courageous?,filler,1.5
+6448316,20,Who is more courageous?,filler,-0.5
+6494589,6,Who is more courageous?,filler,0.5
+6585321,26,Who is more courageous?,filler,-0.5
+6597706,13,Who is more courageous?,filler,2.5
+6604457,24,Who is more courageous?,filler,-1.5
+6641245,14,Who is more courageous?,filler,-1.5
+6677927,17,Who is more courageous?,filler,0.5
+6751519,3,Who is more courageous?,filler,0.5
+6769747,23,Who is more courageous?,filler,-1.5
+6787298,18,Who is more courageous?,filler,0.5
+6809215,25,Who is more courageous?,filler,-0.5
+6906492,21,Who is more courageous?,filler,-1.5
+6921559,19,Who is more courageous?,filler,-1.5
+7018743,21,Who is more courageous?,filler,1.5
+7047138,21,Who is more courageous?,filler,1.5
+7159485,18,Who is more courageous?,filler,0.5
+7275833,9,Who is more courageous?,filler,1.5
+7285216,19,Who is more courageous?,filler,0.5
+7315281,19,Who is more courageous?,filler,1.5
+7371193,18,Who is more courageous?,filler,0.5
+7477141,26,Who is more courageous?,filler,1.5
+7648361,26,Who is more courageous?,filler,0.5
+7657180,2,Who is more courageous?,filler,1.5
+7683469,8,Who is more courageous?,filler,1.5
+7910765,24,Who is more courageous?,filler,-0.5
+7912713,9,Who is more courageous?,filler,-0.5
+7991042,26,Who is more courageous?,filler,0.5
+7994340,19,Who is more courageous?,filler,0.5
+8329775,1,Who is more courageous?,filler,1.5
+8461924,2,Who is more courageous?,filler,-1.5
+8479358,19,Who is more courageous?,filler,1.5
+8520741,22,Who is more courageous?,filler,0.5
+8647376,25,Who is more courageous?,filler,1.5
+9032763,17,Who is more courageous?,filler,1.5
+9163058,17,Who is more courageous?,filler,0.5
+9236437,25,Who is more courageous?,filler,0.5
+9385299,8,Who is more courageous?,filler,2.5
+9446043,2,Who is more courageous?,filler,1.5
+9456872,8,Who is more courageous?,filler,2.5
+9492001,22,Who is more courageous?,filler,1.5
+9682464,18,Who is more courageous?,filler,-2.5
+9733720,4,Who is more courageous?,filler,-0.5
+9788976,5,Who is more courageous?,filler,1.5
+9902658,21,Who is more courageous?,filler,-0.5
+9954168,9,Who is more courageous?,filler,1.5
+9969665,3,Who is more courageous?,filler,-1.5
+9996039,7,Who is more courageous?,filler,-1.5
+1142624,3,Who is more curious?,filler,0.5
+1287720,14,Who is more curious?,filler,-0.5
+1413618,12,Who is more curious?,filler,-1.5
+1510275,25,Who is more curious?,filler,-0.5
+1515614,5,Who is more curious?,filler,-2.5
+1524468,24,Who is more curious?,filler,-1.5
+1633020,5,Who is more curious?,filler,1.5
+1717058,22,Who is more curious?,filler,-0.5
+1774470,2,Who is more curious?,filler,-1.5
+1785240,9,Who is more curious?,filler,-0.5
+1824217,20,Who is more curious?,filler,-2.5
+1832195,17,Who is more curious?,filler,-1.5
+1854683,1,Who is more curious?,filler,-1.5
+2147710,14,Who is more curious?,filler,2.5
+2320801,11,Who is more curious?,filler,1.5
+2348675,5,Who is more curious?,filler,-0.5
+2422756,16,Who is more curious?,filler,-1.5
+2568308,2,Who is more curious?,filler,-1.5
+2625615,8,Who is more curious?,filler,0.5
+2700755,14,Who is more curious?,filler,-2.5
+2757342,16,Who is more curious?,filler,1.5
+2811881,19,Who is more curious?,filler,-1.5
+2841392,2,Who is more curious?,filler,0.5
+2858139,17,Who is more curious?,filler,-0.5
+2862073,21,Who is more curious?,filler,1.5
+2920394,4,Who is more curious?,filler,1.5
+3047366,14,Who is more curious?,filler,-1.5
+3093192,26,Who is more curious?,filler,-1.5
+3166437,1,Who is more curious?,filler,0.5
+3400052,16,Who is more curious?,filler,-1.5
+3573449,22,Who is more curious?,filler,-0.5
+3686281,14,Who is more curious?,filler,-1.5
+3888893,25,Who is more curious?,filler,-1.5
+4068785,14,Who is more curious?,filler,0.5
+4142689,21,Who is more curious?,filler,-0.5
+4170985,14,Who is more curious?,filler,0.5
+4625010,4,Who is more curious?,filler,-0.5
+4875966,5,Who is more curious?,filler,1.5
+5001779,19,Who is more curious?,filler,-2.5
+5004503,2,Who is more curious?,filler,-0.5
+5072875,26,Who is more curious?,filler,-1.5
+5129955,16,Who is more curious?,filler,2.5
+5154581,9,Who is more curious?,filler,-0.5
+5168349,15,Who is more curious?,filler,1.5
+5193661,24,Who is more curious?,filler,-0.5
+5258667,24,Who is more curious?,filler,-1.5
+5404667,5,Who is more curious?,filler,-0.5
+5709566,3,Who is more curious?,filler,-0.5
+5728466,24,Who is more curious?,filler,2.5
+5739140,5,Who is more curious?,filler,-0.5
+5876861,22,Who is more curious?,filler,0.5
+5916531,13,Who is more curious?,filler,-0.5
+5980579,5,Who is more curious?,filler,1.5
+6102583,23,Who is more curious?,filler,-0.5
+6105547,19,Who is more curious?,filler,-2.5
+6126672,7,Who is more curious?,filler,-1.5
+6141536,8,Who is more curious?,filler,2.5
+6174225,25,Who is more curious?,filler,0.5
+6251370,13,Who is more curious?,filler,-0.5
+6304188,19,Who is more curious?,filler,1.5
+6332076,22,Who is more curious?,filler,1.5
+6363469,20,Who is more curious?,filler,-2.5
+6420053,5,Who is more curious?,filler,-1.5
+6434581,14,Who is more curious?,filler,-1.5
+6448316,23,Who is more curious?,filler,1.5
+6494589,2,Who is more curious?,filler,-1.5
+6585321,1,Who is more curious?,filler,-0.5
+6597706,20,Who is more curious?,filler,-1.5
+6604457,15,Who is more curious?,filler,1.5
+6641245,5,Who is more curious?,filler,-0.5
+6677927,14,Who is more curious?,filler,-1.5
+6751519,6,Who is more curious?,filler,-0.5
+6769747,10,Who is more curious?,filler,1.5
+6787298,11,Who is more curious?,filler,-0.5
+6809215,5,Who is more curious?,filler,-2.5
+6906492,17,Who is more curious?,filler,-1.5
+6921559,26,Who is more curious?,filler,-1.5
+7018743,7,Who is more curious?,filler,1.5
+7047138,4,Who is more curious?,filler,-1.5
+7159485,8,Who is more curious?,filler,-0.5
+7275833,19,Who is more curious?,filler,0.5
+7285216,3,Who is more curious?,filler,-0.5
+7315281,1,Who is more curious?,filler,-1.5
+7371193,7,Who is more curious?,filler,-1.5
+7477141,25,Who is more curious?,filler,1.5
+7648361,8,Who is more curious?,filler,-1.5
+7657180,21,Who is more curious?,filler,-0.5
+7683469,4,Who is more curious?,filler,-1.5
+7910765,10,Who is more curious?,filler,0.5
+7912713,12,Who is more curious?,filler,-0.5
+7991042,4,Who is more curious?,filler,-1.5
+7994340,6,Who is more curious?,filler,-0.5
+8329775,7,Who is more curious?,filler,1.5
+8461924,10,Who is more curious?,filler,2.5
+8479358,6,Who is more curious?,filler,-1.5
+8520741,7,Who is more curious?,filler,0.5
+8647376,10,Who is more curious?,filler,-2.5
+9032763,13,Who is more curious?,filler,1.5
+9163058,1,Who is more curious?,filler,-0.5
+9236437,1,Who is more curious?,filler,-1.5
+9385299,13,Who is more curious?,filler,-0.5
+9446043,1,Who is more curious?,filler,1.5
+9456872,13,Who is more curious?,filler,-2.5
+9492001,20,Who is more curious?,filler,-0.5
+9682464,9,Who is more curious?,filler,-0.5
+9733720,20,Who is more curious?,filler,0.5
+9788976,22,Who is more curious?,filler,-0.5
+9902658,15,Who is more curious?,filler,-0.5
+9954168,19,Who is more curious?,filler,-0.5
+9969665,21,Who is more curious?,filler,-1.5
+9996039,8,Who is more curious?,filler,-1.5
+1142624,18,Who is more dangerous?,hostile,-0.5
+1287720,25,Who is more dangerous?,hostile,-2.5
+1413618,20,Who is more dangerous?,hostile,-1.5
+1510275,3,Who is more dangerous?,hostile,1.5
+1515614,9,Who is more dangerous?,hostile,2.5
+1524468,15,Who is more dangerous?,hostile,1.5
+1633020,20,Who is more dangerous?,hostile,-1.5
+1717058,13,Who is more dangerous?,hostile,0.5
+1774470,26,Who is more dangerous?,hostile,-1.5
+1785240,24,Who is more dangerous?,hostile,1.5
+1824217,4,Who is more dangerous?,hostile,2.5
+1832195,19,Who is more dangerous?,hostile,0.5
+1854683,24,Who is more dangerous?,hostile,-2.5
+2147710,19,Who is more dangerous?,hostile,2.5
+2320801,22,Who is more dangerous?,hostile,-1.5
+2348675,8,Who is more dangerous?,hostile,-0.5
+2422756,8,Who is more dangerous?,hostile,-1.5
+2568308,26,Who is more dangerous?,hostile,-0.5
+2625615,26,Who is more dangerous?,hostile,-0.5
+2700755,4,Who is more dangerous?,hostile,1.5
+2757342,10,Who is more dangerous?,hostile,2.5
+2811881,23,Who is more dangerous?,hostile,-1.5
+2841392,25,Who is more dangerous?,hostile,0.5
+2858139,6,Who is more dangerous?,hostile,0.5
+2862073,15,Who is more dangerous?,hostile,1.5
+2920394,22,Who is more dangerous?,hostile,1.5
+3047366,8,Who is more dangerous?,hostile,-1.5
+3093192,11,Who is more dangerous?,hostile,-2.5
+3166437,17,Who is more dangerous?,hostile,-0.5
+3400052,5,Who is more dangerous?,hostile,2.5
+3573449,16,Who is more dangerous?,hostile,0.5
+3686281,23,Who is more dangerous?,hostile,1.5
+3888893,23,Who is more dangerous?,hostile,2.5
+4068785,12,Who is more dangerous?,hostile,1.5
+4142689,12,Who is more dangerous?,hostile,1.5
+4170985,17,Who is more dangerous?,hostile,0.5
+4625010,19,Who is more dangerous?,hostile,0.5
+4875966,17,Who is more dangerous?,hostile,1.5
+5001779,4,Who is more dangerous?,hostile,1.5
+5004503,20,Who is more dangerous?,hostile,-0.5
+5072875,13,Who is more dangerous?,hostile,-1.5
+5129955,3,Who is more dangerous?,hostile,-0.5
+5154581,24,Who is more dangerous?,hostile,0.5
+5168349,21,Who is more dangerous?,hostile,0.5
+5193661,13,Who is more dangerous?,hostile,-1.5
+5258667,14,Who is more dangerous?,hostile,1.5
+5404667,4,Who is more dangerous?,hostile,-1.5
+5709566,14,Who is more dangerous?,hostile,-0.5
+5728466,14,Who is more dangerous?,hostile,-2.5
+5739140,20,Who is more dangerous?,hostile,1.5
+5876861,4,Who is more dangerous?,hostile,-0.5
+5916531,22,Who is more dangerous?,hostile,0.5
+5980579,3,Who is more dangerous?,hostile,1.5
+6102583,2,Who is more dangerous?,hostile,0.5
+6105547,6,Who is more dangerous?,hostile,1.5
+6126672,25,Who is more dangerous?,hostile,-0.5
+6141536,17,Who is more dangerous?,hostile,1.5
+6174225,7,Who is more dangerous?,hostile,-0.5
+6251370,10,Who is more dangerous?,hostile,1.5
+6304188,18,Who is more dangerous?,hostile,-1.5
+6332076,5,Who is more dangerous?,hostile,-0.5
+6363469,23,Who is more dangerous?,hostile,1.5
+6420053,16,Who is more dangerous?,hostile,1.5
+6434581,25,Who is more dangerous?,hostile,1.5
+6448316,22,Who is more dangerous?,hostile,-1.5
+6494589,20,Who is more dangerous?,hostile,2.5
+6585321,17,Who is more dangerous?,hostile,0.5
+6597706,17,Who is more dangerous?,hostile,0.5
+6604457,18,Who is more dangerous?,hostile,-2.5
+6641245,4,Who is more dangerous?,hostile,1.5
+6677927,5,Who is more dangerous?,hostile,-1.5
+6751519,26,Who is more dangerous?,hostile,0.5
+6769747,13,Who is more dangerous?,hostile,-1.5
+6787298,3,Who is more dangerous?,hostile,0.5
+6809215,7,Who is more dangerous?,hostile,2.5
+6906492,23,Who is more dangerous?,hostile,1.5
+6921559,24,Who is more dangerous?,hostile,2.5
+7018743,26,Who is more dangerous?,hostile,-1.5
+7047138,11,Who is more dangerous?,hostile,1.5
+7159485,1,Who is more dangerous?,hostile,0.5
+7275833,26,Who is more dangerous?,hostile,1.5
+7285216,9,Who is more dangerous?,hostile,0.5
+7315281,15,Who is more dangerous?,hostile,0.5
+7371193,5,Who is more dangerous?,hostile,-1.5
+7477141,10,Who is more dangerous?,hostile,1.5
+7648361,22,Who is more dangerous?,hostile,0.5
+7657180,23,Who is more dangerous?,hostile,1.5
+7683469,20,Who is more dangerous?,hostile,-1.5
+7910765,5,Who is more dangerous?,hostile,0.5
+7912713,2,Who is more dangerous?,hostile,-1.5
+7991042,24,Who is more dangerous?,hostile,-1.5
+7994340,11,Who is more dangerous?,hostile,-0.5
+8329775,21,Who is more dangerous?,hostile,-0.5
+8461924,26,Who is more dangerous?,hostile,-1.5
+8479358,16,Who is more dangerous?,hostile,0.5
+8520741,4,Who is more dangerous?,hostile,-1.5
+8647376,15,Who is more dangerous?,hostile,1.5
+9032763,8,Who is more dangerous?,hostile,1.5
+9163058,14,Who is more dangerous?,hostile,-0.5
+9236437,6,Who is more dangerous?,hostile,1.5
+9385299,3,Who is more dangerous?,hostile,2.5
+9446043,23,Who is more dangerous?,hostile,-1.5
+9456872,6,Who is more dangerous?,hostile,2.5
+9492001,5,Who is more dangerous?,hostile,1.5
+9682464,26,Who is more dangerous?,hostile,-1.5
+9733720,10,Who is more dangerous?,hostile,0.5
+9788976,17,Who is more dangerous?,hostile,1.5
+9902658,23,Who is more dangerous?,hostile,-0.5
+9954168,18,Who is more dangerous?,hostile,-0.5
+9969665,2,Who is more dangerous?,hostile,2.5
+9996039,23,Who is more dangerous?,hostile,1.5
+1142624,1,Who is more financially poor?,ses,0.5
+1287720,15,Who is more financially poor?,ses,0.5
+1413618,3,Who is more financially poor?,ses,-0.5
+1510275,14,Who is more financially poor?,ses,0.5
+1515614,15,Who is more financially poor?,ses,2.5
+1524468,23,Who is more financially poor?,ses,1.5
+1633020,2,Who is more financially poor?,ses,-1.5
+1717058,6,Who is more financially poor?,ses,1.5
+1774470,25,Who is more financially poor?,ses,1.5
+1785240,26,Who is more financially poor?,ses,1.5
+1824217,24,Who is more financially poor?,ses,2.5
+1832195,16,Who is more financially poor?,ses,0.5
+1854683,6,Who is more financially poor?,ses,1.5
+2147710,10,Who is more financially poor?,ses,-0.5
+2320801,2,Who is more financially poor?,ses,-1.5
+2348675,16,Who is more financially poor?,ses,0.5
+2422756,11,Who is more financially poor?,ses,-2.5
+2568308,22,Who is more financially poor?,ses,1.5
+2625615,5,Who is more financially poor?,ses,-1.5
+2700755,8,Who is more financially poor?,ses,-1.5
+2757342,17,Who is more financially poor?,ses,0.5
+2811881,7,Who is more financially poor?,ses,-1.5
+2841392,17,Who is more financially poor?,ses,2.5
+2858139,24,Who is more financially poor?,ses,2.5
+2862073,8,Who is more financially poor?,ses,-0.5
+2920394,18,Who is more financially poor?,ses,0.5
+3047366,19,Who is more financially poor?,ses,-0.5
+3093192,5,Who is more financially poor?,ses,-1.5
+3166437,26,Who is more financially poor?,ses,-1.5
+3400052,9,Who is more financially poor?,ses,-0.5
+3573449,12,Who is more financially poor?,ses,-1.5
+3686281,17,Who is more financially poor?,ses,-0.5
+3888893,17,Who is more financially poor?,ses,0.5
+4068785,20,Who is more financially poor?,ses,0.5
+4142689,3,Who is more financially poor?,ses,-0.5
+4170985,3,Who is more financially poor?,ses,-2.5
+4625010,15,Who is more financially poor?,ses,-0.5
+4875966,14,Who is more financially poor?,ses,-1.5
+5001779,21,Who is more financially poor?,ses,2.5
+5004503,24,Who is more financially poor?,ses,1.5
+5072875,8,Who is more financially poor?,ses,1.5
+5129955,10,Who is more financially poor?,ses,-1.5
+5154581,15,Who is more financially poor?,ses,0.5
+5168349,2,Who is more financially poor?,ses,-1.5
+5193661,5,Who is more financially poor?,ses,0.5
+5258667,12,Who is more financially poor?,ses,1.5
+5404667,13,Who is more financially poor?,ses,0.5
+5709566,2,Who is more financially poor?,ses,0.5
+5728466,11,Who is more financially poor?,ses,2.5
+5739140,23,Who is more financially poor?,ses,-0.5
+5876861,9,Who is more financially poor?,ses,-1.5
+5916531,5,Who is more financially poor?,ses,-0.5
+5980579,12,Who is more financially poor?,ses,1.5
+6102583,12,Who is more financially poor?,ses,1.5
+6105547,2,Who is more financially poor?,ses,1.5
+6126672,6,Who is more financially poor?,ses,0.5
+6141536,11,Who is more financially poor?,ses,-1.5
+6174225,10,Who is more financially poor?,ses,-0.5
+6251370,7,Who is more financially poor?,ses,-0.5
+6304188,15,Who is more financially poor?,ses,0.5
+6332076,23,Who is more financially poor?,ses,0.5
+6363469,12,Who is more financially poor?,ses,-2.5
+6420053,19,Who is more financially poor?,ses,-1.5
+6434581,22,Who is more financially poor?,ses,1.5
+6448316,11,Who is more financially poor?,ses,-0.5
+6494589,4,Who is more financially poor?,ses,-2.5
+6585321,23,Who is more financially poor?,ses,-0.5
+6597706,19,Who is more financially poor?,ses,-1.5
+6604457,7,Who is more financially poor?,ses,1.5
+6641245,26,Who is more financially poor?,ses,1.5
+6677927,4,Who is more financially poor?,ses,0.5
+6751519,1,Who is more financially poor?,ses,0.5
+6769747,19,Who is more financially poor?,ses,1.5
+6787298,26,Who is more financially poor?,ses,-0.5
+6809215,4,Who is more financially poor?,ses,-1.5
+6906492,26,Who is more financially poor?,ses,0.5
+6921559,25,Who is more financially poor?,ses,1.5
+7018743,8,Who is more financially poor?,ses,-0.5
+7047138,9,Who is more financially poor?,ses,1.5
+7159485,14,Who is more financially poor?,ses,0.5
+7275833,3,Who is more financially poor?,ses,-1.5
+7285216,16,Who is more financially poor?,ses,0.5
+7315281,16,Who is more financially poor?,ses,-1.5
+7371193,26,Who is more financially poor?,ses,-0.5
+7477141,11,Who is more financially poor?,ses,-1.5
+7648361,19,Who is more financially poor?,ses,-0.5
+7657180,11,Who is more financially poor?,ses,0.5
+7683469,24,Who is more financially poor?,ses,1.5
+7910765,23,Who is more financially poor?,ses,0.5
+7912713,17,Who is more financially poor?,ses,-0.5
+7991042,14,Who is more financially poor?,ses,-1.5
+7994340,10,Who is more financially poor?,ses,0.5
+8329775,24,Who is more financially poor?,ses,-0.5
+8461924,11,Who is more financially poor?,ses,1.5
+8479358,18,Who is more financially poor?,ses,1.5
+8520741,20,Who is more financially poor?,ses,-2.5
+8647376,20,Who is more financially poor?,ses,2.5
+9032763,9,Who is more financially poor?,ses,-0.5
+9163058,2,Who is more financially poor?,ses,-1.5
+9236437,11,Who is more financially poor?,ses,1.5
+9385299,1,Who is more financially poor?,ses,-1.5
+9446043,7,Who is more financially poor?,ses,-2.5
+9456872,24,Who is more financially poor?,ses,2.5
+9492001,8,Who is more financially poor?,ses,-1.5
+9682464,2,Who is more financially poor?,ses,2.5
+9733720,14,Who is more financially poor?,ses,0.5
+9788976,21,Who is more financially poor?,ses,-0.5
+9902658,13,Who is more financially poor?,ses,0.5
+9954168,22,Who is more financially poor?,ses,0.5
+9969665,12,Who is more financially poor?,ses,1.5
+9996039,17,Who is more financially poor?,ses,1.5
+1142624,9,Who is more hostile?,hostile,-0.5
+1287720,20,Who is more hostile?,hostile,2.5
+1413618,18,Who is more hostile?,hostile,1.5
+1510275,10,Who is more hostile?,hostile,0.5
+1515614,3,Who is more hostile?,hostile,-2.5
+1524468,10,Who is more hostile?,hostile,1.5
+1633020,25,Who is more hostile?,hostile,-0.5
+1717058,16,Who is more hostile?,hostile,0.5
+1774470,7,Who is more hostile?,hostile,0.5
+1785240,15,Who is more hostile?,hostile,1.5
+1824217,11,Who is more hostile?,hostile,-2.5
+1832195,13,Who is more hostile?,hostile,0.5
+1854683,17,Who is more hostile?,hostile,-1.5
+2147710,3,Who is more hostile?,hostile,-2.5
+2320801,1,Who is more hostile?,hostile,0.5
+2348675,2,Who is more hostile?,hostile,-1.5
+2422756,12,Who is more hostile?,hostile,-1.5
+2568308,25,Who is more hostile?,hostile,-1.5
+2625615,25,Who is more hostile?,hostile,0.5
+2700755,18,Who is more hostile?,hostile,2.5
+2757342,9,Who is more hostile?,hostile,2.5
+2811881,2,Who is more hostile?,hostile,-1.5
+2841392,22,Who is more hostile?,hostile,-1.5
+2858139,16,Who is more hostile?,hostile,1.5
+2862073,10,Who is more hostile?,hostile,0.5
+2920394,7,Who is more hostile?,hostile,2.5
+3047366,20,Who is more hostile?,hostile,-0.5
+3093192,7,Who is more hostile?,hostile,-1.5
+3166437,21,Who is more hostile?,hostile,-0.5
+3400052,8,Who is more hostile?,hostile,2.5
+3573449,4,Who is more hostile?,hostile,1.5
+3686281,19,Who is more hostile?,hostile,-1.5
+3888893,19,Who is more hostile?,hostile,0.5
+4068785,18,Who is more hostile?,hostile,-1.5
+4142689,1,Who is more hostile?,hostile,0.5
+4170985,7,Who is more hostile?,hostile,-2.5
+4625010,3,Who is more hostile?,hostile,-0.5
+4875966,15,Who is more hostile?,hostile,-2.5
+5001779,11,Who is more hostile?,hostile,-2.5
+5004503,18,Who is more hostile?,hostile,0.5
+5072875,2,Who is more hostile?,hostile,1.5
+5129955,1,Who is more hostile?,hostile,-1.5
+5154581,13,Who is more hostile?,hostile,-0.5
+5168349,19,Who is more hostile?,hostile,-2.5
+5193661,8,Who is more hostile?,hostile,2.5
+5258667,22,Who is more hostile?,hostile,1.5
+5404667,1,Who is more hostile?,hostile,0.5
+5709566,5,Who is more hostile?,hostile,1.5
+5728466,8,Who is more hostile?,hostile,2.5
+5739140,3,Who is more hostile?,hostile,0.5
+5876861,18,Who is more hostile?,hostile,0.5
+5916531,14,Who is more hostile?,hostile,-1.5
+5980579,13,Who is more hostile?,hostile,0.5
+6102583,16,Who is more hostile?,hostile,1.5
+6105547,21,Who is more hostile?,hostile,1.5
+6126672,1,Who is more hostile?,hostile,-1.5
+6141536,18,Who is more hostile?,hostile,0.5
+6174225,19,Who is more hostile?,hostile,-0.5
+6251370,2,Who is more hostile?,hostile,-0.5
+6304188,25,Who is more hostile?,hostile,1.5
+6332076,21,Who is more hostile?,hostile,1.5
+6363469,16,Who is more hostile?,hostile,2.5
+6420053,23,Who is more hostile?,hostile,-2.5
+6434581,17,Who is more hostile?,hostile,1.5
+6448316,25,Who is more hostile?,hostile,2.5
+6494589,16,Who is more hostile?,hostile,2.5
+6585321,16,Who is more hostile?,hostile,1.5
+6597706,12,Who is more hostile?,hostile,-2.5
+6604457,9,Who is more hostile?,hostile,-0.5
+6641245,7,Who is more hostile?,hostile,0.5
+6677927,9,Who is more hostile?,hostile,-1.5
+6751519,13,Who is more hostile?,hostile,-0.5
+6769747,20,Who is more hostile?,hostile,1.5
+6787298,4,Who is more hostile?,hostile,0.5
+6809215,15,Who is more hostile?,hostile,1.5
+6906492,16,Who is more hostile?,hostile,1.5
+6921559,13,Who is more hostile?,hostile,2.5
+7018743,19,Who is more hostile?,hostile,1.5
+7047138,13,Who is more hostile?,hostile,-0.5
+7159485,17,Who is more hostile?,hostile,-0.5
+7275833,8,Who is more hostile?,hostile,1.5
+7285216,18,Who is more hostile?,hostile,0.5
+7315281,21,Who is more hostile?,hostile,0.5
+7371193,16,Who is more hostile?,hostile,-1.5
+7477141,5,Who is more hostile?,hostile,1.5
+7648361,2,Who is more hostile?,hostile,-1.5
+7657180,7,Who is more hostile?,hostile,1.5
+7683469,11,Who is more hostile?,hostile,1.5
+7910765,9,Who is more hostile?,hostile,-0.5
+7912713,11,Who is more hostile?,hostile,0.5
+7991042,2,Who is more hostile?,hostile,-1.5
+7994340,18,Who is more hostile?,hostile,-0.5
+8329775,22,Who is more hostile?,hostile,0.5
+8461924,25,Who is more hostile?,hostile,-0.5
+8479358,9,Who is more hostile?,hostile,-1.5
+8520741,24,Who is more hostile?,hostile,2.5
+8647376,9,Who is more hostile?,hostile,-0.5
+9032763,23,Who is more hostile?,hostile,1.5
+9163058,9,Who is more hostile?,hostile,-0.5
+9236437,22,Who is more hostile?,hostile,1.5
+9385299,23,Who is more hostile?,hostile,-1.5
+9446043,25,Who is more hostile?,hostile,1.5
+9456872,19,Who is more hostile?,hostile,2.5
+9492001,25,Who is more hostile?,hostile,-1.5
+9682464,14,Who is more hostile?,hostile,2.5
+9733720,16,Who is more hostile?,hostile,0.5
+9788976,23,Who is more hostile?,hostile,0.5
+9902658,17,Who is more hostile?,hostile,-0.5
+9954168,25,Who is more hostile?,hostile,1.5
+9969665,10,Who is more hostile?,hostile,2.5
+9996039,11,Who is more hostile?,hostile,-1.5
+1142624,4,Who is more ignorant?,ses,0.5
+1287720,13,Who is more ignorant?,ses,1.5
+1413618,23,Who is more ignorant?,ses,0.5
+1510275,19,Who is more ignorant?,ses,-0.5
+1515614,7,Who is more ignorant?,ses,-2.5
+1524468,20,Who is more ignorant?,ses,-1.5
+1633020,6,Who is more ignorant?,ses,-1.5
+1717058,10,Who is more ignorant?,ses,0.5
+1774470,21,Who is more ignorant?,ses,-1.5
+1785240,6,Who is more ignorant?,ses,-1.5
+1824217,12,Who is more ignorant?,ses,2.5
+1832195,11,Who is more ignorant?,ses,0.5
+1854683,8,Who is more ignorant?,ses,-1.5
+2147710,12,Who is more ignorant?,ses,-2.5
+2320801,12,Who is more ignorant?,ses,0.5
+2348675,23,Who is more ignorant?,ses,-0.5
+2422756,24,Who is more ignorant?,ses,1.5
+2568308,13,Who is more ignorant?,ses,0.5
+2625615,18,Who is more ignorant?,ses,-0.5
+2700755,6,Who is more ignorant?,ses,-2.5
+2757342,18,Who is more ignorant?,ses,2.5
+2811881,25,Who is more ignorant?,ses,1.5
+2841392,11,Who is more ignorant?,ses,0.5
+2858139,3,Who is more ignorant?,ses,-0.5
+2862073,3,Who is more ignorant?,ses,0.5
+2920394,15,Who is more ignorant?,ses,1.5
+3047366,6,Who is more ignorant?,ses,-1.5
+3093192,17,Who is more ignorant?,ses,-1.5
+3166437,6,Who is more ignorant?,ses,-1.5
+3400052,18,Who is more ignorant?,ses,1.5
+3573449,3,Who is more ignorant?,ses,-0.5
+3686281,21,Who is more ignorant?,ses,0.5
+3888893,11,Who is more ignorant?,ses,0.5
+4068785,19,Who is more ignorant?,ses,0.5
+4142689,22,Who is more ignorant?,ses,-2.5
+4170985,10,Who is more ignorant?,ses,-2.5
+4625010,14,Who is more ignorant?,ses,-0.5
+4875966,19,Who is more ignorant?,ses,1.5
+5001779,17,Who is more ignorant?,ses,0.5
+5004503,14,Who is more ignorant?,ses,0.5
+5072875,22,Who is more ignorant?,ses,1.5
+5129955,24,Who is more ignorant?,ses,-1.5
+5154581,17,Who is more ignorant?,ses,-0.5
+5168349,23,Who is more ignorant?,ses,0.5
+5193661,26,Who is more ignorant?,ses,1.5
+5258667,26,Who is more ignorant?,ses,1.5
+5404667,11,Who is more ignorant?,ses,2.5
+5709566,26,Who is more ignorant?,ses,-0.5
+5728466,5,Who is more ignorant?,ses,-2.5
+5739140,17,Who is more ignorant?,ses,-1.5
+5876861,19,Who is more ignorant?,ses,1.5
+5916531,21,Who is more ignorant?,ses,-1.5
+5980579,10,Who is more ignorant?,ses,0.5
+6102583,3,Who is more ignorant?,ses,0.5
+6105547,9,Who is more ignorant?,ses,1.5
+6126672,26,Who is more ignorant?,ses,1.5
+6141536,26,Who is more ignorant?,ses,1.5
+6174225,14,Who is more ignorant?,ses,-1.5
+6251370,17,Who is more ignorant?,ses,-0.5
+6304188,24,Who is more ignorant?,ses,-1.5
+6332076,15,Who is more ignorant?,ses,-0.5
+6363469,24,Who is more ignorant?,ses,2.5
+6420053,8,Who is more ignorant?,ses,-0.5
+6434581,16,Who is more ignorant?,ses,1.5
+6448316,3,Who is more ignorant?,ses,0.5
+6494589,17,Who is more ignorant?,ses,2.5
+6585321,22,Who is more ignorant?,ses,0.5
+6597706,23,Who is more ignorant?,ses,-1.5
+6604457,25,Who is more ignorant?,ses,0.5
+6641245,9,Who is more ignorant?,ses,0.5
+6677927,21,Who is more ignorant?,ses,-1.5
+6751519,9,Who is more ignorant?,ses,0.5
+6769747,1,Who is more ignorant?,ses,1.5
+6787298,2,Who is more ignorant?,ses,0.5
+6809215,6,Who is more ignorant?,ses,2.5
+6906492,11,Who is more ignorant?,ses,2.5
+6921559,15,Who is more ignorant?,ses,-1.5
+7018743,17,Who is more ignorant?,ses,1.5
+7047138,6,Who is more ignorant?,ses,-1.5
+7159485,21,Who is more ignorant?,ses,0.5
+7275833,2,Who is more ignorant?,ses,1.5
+7285216,17,Who is more ignorant?,ses,-0.5
+7315281,11,Who is more ignorant?,ses,-0.5
+7371193,3,Who is more ignorant?,ses,0.5
+7477141,6,Who is more ignorant?,ses,1.5
+7648361,7,Who is more ignorant?,ses,-1.5
+7657180,26,Who is more ignorant?,ses,0.5
+7683469,1,Who is more ignorant?,ses,1.5
+7910765,6,Who is more ignorant?,ses,-0.5
+7912713,22,Who is more ignorant?,ses,-0.5
+7991042,7,Who is more ignorant?,ses,1.5
+7994340,8,Who is more ignorant?,ses,-1.5
+8329775,26,Who is more ignorant?,ses,0.5
+8461924,24,Who is more ignorant?,ses,0.5
+8479358,22,Who is more ignorant?,ses,1.5
+8520741,11,Who is more ignorant?,ses,0.5
+8647376,19,Who is more ignorant?,ses,1.5
+9032763,12,Who is more ignorant?,ses,1.5
+9163058,8,Who is more ignorant?,ses,-0.5
+9236437,3,Who is more ignorant?,ses,-1.5
+9385299,25,Who is more ignorant?,ses,2.5
+9446043,26,Who is more ignorant?,ses,0.5
+9456872,22,Who is more ignorant?,ses,-2.5
+9492001,21,Who is more ignorant?,ses,-0.5
+9682464,25,Who is more ignorant?,ses,-1.5
+9733720,7,Who is more ignorant?,ses,0.5
+9788976,7,Who is more ignorant?,ses,0.5
+9902658,12,Who is more ignorant?,ses,0.5
+9954168,7,Who is more ignorant?,ses,0.5
+9969665,24,Who is more ignorant?,ses,2.5
+9996039,25,Who is more ignorant?,ses,0.5
+1142624,8,Who is more likely to be on welfare?,ses,0.5
+1287720,10,Who is more likely to be on welfare?,ses,0.5
+1413618,2,Who is more likely to be on welfare?,ses,-0.5
+1510275,13,Who is more likely to be on welfare?,ses,-0.5
+1515614,22,Who is more likely to be on welfare?,ses,-2.5
+1524468,18,Who is more likely to be on welfare?,ses,-1.5
+1633020,19,Who is more likely to be on welfare?,ses,-1.5
+1717058,17,Who is more likely to be on welfare?,ses,0.5
+1774470,22,Who is more likely to be on welfare?,ses,-1.5
+1785240,18,Who is more likely to be on welfare?,ses,0.5
+1824217,16,Who is more likely to be on welfare?,ses,-2.5
+1832195,10,Who is more likely to be on welfare?,ses,0.5
+1854683,7,Who is more likely to be on welfare?,ses,-1.5
+2147710,5,Who is more likely to be on welfare?,ses,2.5
+2320801,19,Who is more likely to be on welfare?,ses,0.5
+2348675,7,Who is more likely to be on welfare?,ses,1.5
+2422756,5,Who is more likely to be on welfare?,ses,1.5
+2568308,6,Who is more likely to be on welfare?,ses,1.5
+2625615,16,Who is more likely to be on welfare?,ses,-1.5
+2700755,22,Who is more likely to be on welfare?,ses,-2.5
+2757342,12,Who is more likely to be on welfare?,ses,1.5
+2811881,13,Who is more likely to be on welfare?,ses,-0.5
+2841392,10,Who is more likely to be on welfare?,ses,-2.5
+2858139,23,Who is more likely to be on welfare?,ses,2.5
+2862073,12,Who is more likely to be on welfare?,ses,1.5
+2920394,17,Who is more likely to be on welfare?,ses,-0.5
+3047366,4,Who is more likely to be on welfare?,ses,0.5
+3093192,18,Who is more likely to be on welfare?,ses,2.5
+3166437,10,Who is more likely to be on welfare?,ses,-0.5
+3400052,22,Who is more likely to be on welfare?,ses,-0.5
+3573449,11,Who is more likely to be on welfare?,ses,-0.5
+3686281,7,Who is more likely to be on welfare?,ses,1.5
+3888893,20,Who is more likely to be on welfare?,ses,0.5
+4068785,9,Who is more likely to be on welfare?,ses,-0.5
+4142689,17,Who is more likely to be on welfare?,ses,-0.5
+4170985,5,Who is more likely to be on welfare?,ses,-2.5
+4625010,11,Who is more likely to be on welfare?,ses,0.5
+4875966,11,Who is more likely to be on welfare?,ses,2.5
+5001779,23,Who is more likely to be on welfare?,ses,-1.5
+5004503,21,Who is more likely to be on welfare?,ses,-0.5
+5072875,11,Who is more likely to be on welfare?,ses,0.5
+5129955,22,Who is more likely to be on welfare?,ses,-2.5
+5154581,23,Who is more likely to be on welfare?,ses,-0.5
+5168349,20,Who is more likely to be on welfare?,ses,-0.5
+5193661,3,Who is more likely to be on welfare?,ses,1.5
+5258667,21,Who is more likely to be on welfare?,ses,-1.5
+5404667,9,Who is more likely to be on welfare?,ses,-0.5
+5709566,23,Who is more likely to be on welfare?,ses,-0.5
+5728466,13,Who is more likely to be on welfare?,ses,-2.5
+5739140,8,Who is more likely to be on welfare?,ses,-0.5
+5876861,25,Who is more likely to be on welfare?,ses,1.5
+5916531,10,Who is more likely to be on welfare?,ses,-0.5
+5980579,24,Who is more likely to be on welfare?,ses,-2.5
+6102583,4,Who is more likely to be on welfare?,ses,0.5
+6105547,4,Who is more likely to be on welfare?,ses,-0.5
+6126672,24,Who is more likely to be on welfare?,ses,0.5
+6141536,5,Who is more likely to be on welfare?,ses,1.5
+6174225,1,Who is more likely to be on welfare?,ses,0.5
+6251370,20,Who is more likely to be on welfare?,ses,-0.5
+6304188,8,Who is more likely to be on welfare?,ses,1.5
+6332076,11,Who is more likely to be on welfare?,ses,1.5
+6363469,10,Who is more likely to be on welfare?,ses,2.5
+6420053,24,Who is more likely to be on welfare?,ses,2.5
+6434581,21,Who is more likely to be on welfare?,ses,1.5
+6448316,24,Who is more likely to be on welfare?,ses,-1.5
+6494589,19,Who is more likely to be on welfare?,ses,1.5
+6585321,14,Who is more likely to be on welfare?,ses,0.5
+6597706,24,Who is more likely to be on welfare?,ses,0.5
+6604457,16,Who is more likely to be on welfare?,ses,1.5
+6641245,21,Who is more likely to be on welfare?,ses,1.5
+6677927,2,Who is more likely to be on welfare?,ses,0.5
+6751519,22,Who is more likely to be on welfare?,ses,0.5
+6769747,5,Who is more likely to be on welfare?,ses,1.5
+6787298,14,Who is more likely to be on welfare?,ses,0.5
+6809215,17,Who is more likely to be on welfare?,ses,1.5
+6906492,1,Who is more likely to be on welfare?,ses,0.5
+6921559,12,Who is more likely to be on welfare?,ses,-1.5
+7018743,15,Who is more likely to be on welfare?,ses,-1.5
+7047138,12,Who is more likely to be on welfare?,ses,1.5
+7159485,4,Who is more likely to be on welfare?,ses,0.5
+7275833,18,Who is more likely to be on welfare?,ses,-0.5
+7285216,6,Who is more likely to be on welfare?,ses,0.5
+7315281,23,Who is more likely to be on welfare?,ses,0.5
+7371193,17,Who is more likely to be on welfare?,ses,1.5
+7477141,23,Who is more likely to be on welfare?,ses,1.5
+7648361,11,Who is more likely to be on welfare?,ses,0.5
+7657180,1,Who is more likely to be on welfare?,ses,-0.5
+7683469,13,Who is more likely to be on welfare?,ses,2.5
+7910765,8,Who is more likely to be on welfare?,ses,0.5
+7912713,1,Who is more likely to be on welfare?,ses,-1.5
+7991042,15,Who is more likely to be on welfare?,ses,-2.5
+7994340,9,Who is more likely to be on welfare?,ses,0.5
+8329775,5,Who is more likely to be on welfare?,ses,-0.5
+8461924,9,Who is more likely to be on welfare?,ses,-1.5
+8479358,26,Who is more likely to be on welfare?,ses,-0.5
+8520741,23,Who is more likely to be on welfare?,ses,-1.5
+8647376,22,Who is more likely to be on welfare?,ses,1.5
+9032763,4,Who is more likely to be on welfare?,ses,-1.5
+9163058,26,Who is more likely to be on welfare?,ses,1.5
+9236437,13,Who is more likely to be on welfare?,ses,1.5
+9385299,2,Who is more likely to be on welfare?,ses,-1.5
+9446043,17,Who is more likely to be on welfare?,ses,1.5
+9456872,18,Who is more likely to be on welfare?,ses,-2.5
+9492001,9,Who is more likely to be on welfare?,ses,-0.5
+9682464,6,Who is more likely to be on welfare?,ses,-2.5
+9733720,12,Who is more likely to be on welfare?,ses,-0.5
+9788976,24,Who is more likely to be on welfare?,ses,0.5
+9902658,19,Who is more likely to be on welfare?,ses,0.5
+9954168,6,Who is more likely to be on welfare?,ses,-0.5
+9969665,18,Who is more likely to be on welfare?,ses,1.5
+9996039,20,Who is more likely to be on welfare?,ses,0.5
+1142624,6,Who is more muscular?,other,-0.5
+1287720,23,Who is more muscular?,other,0.5
+1413618,26,Who is more muscular?,other,1.5
+1510275,17,Who is more muscular?,other,1.5
+1515614,14,Who is more muscular?,other,-2.5
+1524468,7,Who is more muscular?,other,-1.5
+1633020,16,Who is more muscular?,other,-1.5
+1717058,5,Who is more muscular?,other,-0.5
+1774470,20,Who is more muscular?,other,1.5
+1785240,11,Who is more muscular?,other,-1.5
+1824217,23,Who is more muscular?,other,-2.5
+1832195,22,Who is more muscular?,other,1.5
+1854683,9,Who is more muscular?,other,1.5
+2147710,4,Who is more muscular?,other,2.5
+2320801,24,Who is more muscular?,other,1.5
+2348675,17,Who is more muscular?,other,-0.5
+2422756,25,Who is more muscular?,other,1.5
+2568308,4,Who is more muscular?,other,2.5
+2625615,13,Who is more muscular?,other,-1.5
+2700755,13,Who is more muscular?,other,1.5
+2757342,6,Who is more muscular?,other,2.5
+2811881,9,Who is more muscular?,other,-0.5
+2841392,15,Who is more muscular?,other,-0.5
+2858139,1,Who is more muscular?,other,0.5
+2862073,18,Who is more muscular?,other,1.5
+2920394,11,Who is more muscular?,other,1.5
+3047366,25,Who is more muscular?,other,1.5
+3093192,8,Who is more muscular?,other,0.5
+3166437,18,Who is more muscular?,other,0.5
+3400052,14,Who is more muscular?,other,1.5
+3573449,15,Who is more muscular?,other,-0.5
+3686281,2,Who is more muscular?,other,-0.5
+3888893,9,Who is more muscular?,other,2.5
+4068785,3,Who is more muscular?,other,1.5
+4142689,2,Who is more muscular?,other,1.5
+4170985,18,Who is more muscular?,other,-1.5
+4625010,2,Who is more muscular?,other,0.5
+4875966,16,Who is more muscular?,other,-1.5
+5001779,18,Who is more muscular?,other,2.5
+5004503,22,Who is more muscular?,other,-1.5
+5072875,18,Who is more muscular?,other,-1.5
+5129955,11,Who is more muscular?,other,-0.5
+5154581,18,Who is more muscular?,other,0.5
+5168349,7,Who is more muscular?,other,-2.5
+5193661,16,Who is more muscular?,other,2.5
+5258667,11,Who is more muscular?,other,1.5
+5404667,24,Who is more muscular?,other,2.5
+5709566,20,Who is more muscular?,other,0.5
+5728466,16,Who is more muscular?,other,-2.5
+5739140,22,Who is more muscular?,other,-0.5
+5876861,5,Who is more muscular?,other,-1.5
+5916531,18,Who is more muscular?,other,0.5
+5980579,2,Who is more muscular?,other,-1.5
+6102583,19,Who is more muscular?,other,0.5
+6105547,24,Who is more muscular?,other,-0.5
+6126672,23,Who is more muscular?,other,1.5
+6141536,7,Who is more muscular?,other,-0.5
+6174225,22,Who is more muscular?,other,-1.5
+6251370,14,Who is more muscular?,other,1.5
+6304188,14,Who is more muscular?,other,1.5
+6332076,17,Who is more muscular?,other,-0.5
+6363469,17,Who is more muscular?,other,2.5
+6420053,17,Who is more muscular?,other,-1.5
+6434581,11,Who is more muscular?,other,-0.5
+6448316,7,Who is more muscular?,other,-1.5
+6494589,14,Who is more muscular?,other,2.5
+6585321,13,Who is more muscular?,other,1.5
+6597706,1,Who is more muscular?,other,-1.5
+6604457,14,Who is more muscular?,other,2.5
+6641245,17,Who is more muscular?,other,-1.5
+6677927,8,Who is more muscular?,other,-2.5
+6751519,25,Who is more muscular?,other,-0.5
+6769747,26,Who is more muscular?,other,-1.5
+6787298,10,Who is more muscular?,other,0.5
+6809215,16,Who is more muscular?,other,1.5
+6906492,9,Who is more muscular?,other,-1.5
+6921559,16,Who is more muscular?,other,1.5
+7018743,24,Who is more muscular?,other,-0.5
+7047138,8,Who is more muscular?,other,0.5
+7159485,25,Who is more muscular?,other,0.5
+7275833,13,Who is more muscular?,other,1.5
+7285216,10,Who is more muscular?,other,-0.5
+7315281,6,Who is more muscular?,other,0.5
+7371193,2,Who is more muscular?,other,1.5
+7477141,1,Who is more muscular?,other,-1.5
+7648361,1,Who is more muscular?,other,1.5
+7657180,18,Who is more muscular?,other,1.5
+7683469,26,Who is more muscular?,other,-2.5
+7910765,13,Who is more muscular?,other,0.5
+7912713,19,Who is more muscular?,other,-0.5
+7991042,3,Who is more muscular?,other,1.5
+7994340,22,Who is more muscular?,other,1.5
+8329775,25,Who is more muscular?,other,1.5
+8461924,12,Who is more muscular?,other,-0.5
+8479358,7,Who is more muscular?,other,-0.5
+8520741,12,Who is more muscular?,other,-1.5
+8647376,6,Who is more muscular?,other,-0.5
+9032763,26,Who is more muscular?,other,-1.5
+9163058,4,Who is more muscular?,other,-0.5
+9236437,10,Who is more muscular?,other,-1.5
+9385299,15,Who is more muscular?,other,0.5
+9446043,19,Who is more muscular?,other,1.5
+9456872,20,Who is more muscular?,other,-2.5
+9492001,10,Who is more muscular?,other,-1.5
+9682464,19,Who is more muscular?,other,2.5
+9733720,9,Who is more muscular?,other,0.5
+9788976,26,Who is more muscular?,other,1.5
+9902658,4,Who is more muscular?,other,0.5
+9954168,24,Who is more muscular?,other,-1.5
+9969665,9,Who is more muscular?,other,2.5
+9996039,9,Who is more muscular?,other,-1.5
+1142624,12,Who is more musical?,other,0.5
+1287720,18,Who is more musical?,other,-1.5
+1413618,9,Who is more musical?,other,-1.5
+1510275,11,Who is more musical?,other,-0.5
+1515614,4,Who is more musical?,other,2.5
+1524468,26,Who is more musical?,other,1.5
+1633020,11,Who is more musical?,other,1.5
+1717058,25,Who is more musical?,other,0.5
+1774470,16,Who is more musical?,other,-1.5
+1785240,7,Who is more musical?,other,-1.5
+1824217,19,Who is more musical?,other,-2.5
+1832195,2,Who is more musical?,other,-1.5
+1854683,14,Who is more musical?,other,1.5
+2147710,17,Who is more musical?,other,2.5
+2320801,15,Who is more musical?,other,1.5
+2348675,3,Who is more musical?,other,-0.5
+2422756,21,Who is more musical?,other,-2.5
+2568308,7,Who is more musical?,other,-1.5
+2625615,2,Who is more musical?,other,-0.5
+2700755,24,Who is more musical?,other,-0.5
+2757342,22,Who is more musical?,other,-1.5
+2811881,16,Who is more musical?,other,-0.5
+2841392,7,Who is more musical?,other,-0.5
+2858139,14,Who is more musical?,other,-1.5
+2862073,6,Who is more musical?,other,-2.5
+2920394,25,Who is more musical?,other,1.5
+3047366,12,Who is more musical?,other,1.5
+3093192,14,Who is more musical?,other,-0.5
+3166437,19,Who is more musical?,other,0.5
+3400052,24,Who is more musical?,other,1.5
+3573449,21,Who is more musical?,other,-0.5
+3686281,12,Who is more musical?,other,-0.5
+3888893,7,Who is more musical?,other,1.5
+4068785,6,Who is more musical?,other,0.5
+4142689,26,Who is more musical?,other,-0.5
+4170985,22,Who is more musical?,other,1.5
+4625010,13,Who is more musical?,other,-0.5
+4875966,2,Who is more musical?,other,-2.5
+5001779,15,Who is more musical?,other,2.5
+5004503,26,Who is more musical?,other,0.5
+5072875,24,Who is more musical?,other,-1.5
+5129955,20,Who is more musical?,other,0.5
+5154581,12,Who is more musical?,other,0.5
+5168349,24,Who is more musical?,other,1.5
+5193661,14,Who is more musical?,other,0.5
+5258667,20,Who is more musical?,other,1.5
+5404667,25,Who is more musical?,other,0.5
+5709566,11,Who is more musical?,other,-0.5
+5728466,9,Who is more musical?,other,0.5
+5739140,15,Who is more musical?,other,0.5
+5876861,1,Who is more musical?,other,1.5
+5916531,11,Who is more musical?,other,-1.5
+5980579,23,Who is more musical?,other,-0.5
+6102583,26,Who is more musical?,other,-0.5
+6105547,20,Who is more musical?,other,0.5
+6126672,17,Who is more musical?,other,0.5
+6141536,3,Who is more musical?,other,-1.5
+6174225,11,Who is more musical?,other,-1.5
+6251370,16,Who is more musical?,other,-0.5
+6304188,20,Who is more musical?,other,-1.5
+6332076,6,Who is more musical?,other,-1.5
+6363469,8,Who is more musical?,other,2.5
+6420053,10,Who is more musical?,other,-0.5
+6434581,19,Who is more musical?,other,0.5
+6448316,1,Who is more musical?,other,1.5
+6494589,13,Who is more musical?,other,-1.5
+6585321,18,Who is more musical?,other,-0.5
+6597706,22,Who is more musical?,other,1.5
+6604457,5,Who is more musical?,other,-0.5
+6641245,1,Who is more musical?,other,1.5
+6677927,15,Who is more musical?,other,1.5
+6751519,15,Who is more musical?,other,0.5
+6769747,18,Who is more musical?,other,-1.5
+6787298,9,Who is more musical?,other,-0.5
+6809215,1,Who is more musical?,other,-2.5
+6906492,2,Who is more musical?,other,1.5
+6921559,2,Who is more musical?,other,1.5
+7018743,9,Who is more musical?,other,-1.5
+7047138,10,Who is more musical?,other,0.5
+7159485,23,Who is more musical?,other,-0.5
+7275833,21,Who is more musical?,other,-2.5
+7285216,20,Who is more musical?,other,-0.5
+7315281,12,Who is more musical?,other,-0.5
+7371193,8,Who is more musical?,other,-2.5
+7477141,3,Who is more musical?,other,-1.5
+7648361,18,Who is more musical?,other,1.5
+7657180,13,Who is more musical?,other,0.5
+7683469,15,Who is more musical?,other,2.5
+7910765,21,Who is more musical?,other,-0.5
+7912713,13,Who is more musical?,other,-0.5
+7991042,22,Who is more musical?,other,-1.5
+7994340,25,Who is more musical?,other,-0.5
+8329775,9,Who is more musical?,other,2.5
+8461924,17,Who is more musical?,other,1.5
+8479358,20,Who is more musical?,other,0.5
+8520741,19,Who is more musical?,other,1.5
+8647376,2,Who is more musical?,other,1.5
+9032763,19,Who is more musical?,other,1.5
+9163058,7,Who is more musical?,other,1.5
+9236437,21,Who is more musical?,other,-1.5
+9385299,22,Who is more musical?,other,1.5
+9446043,21,Who is more musical?,other,-1.5
+9456872,1,Who is more musical?,other,-2.5
+9492001,18,Who is more musical?,other,-0.5
+9682464,16,Who is more musical?,other,2.5
+9733720,3,Who is more musical?,other,0.5
+9788976,8,Who is more musical?,other,-0.5
+9902658,18,Who is more musical?,other,0.5
+9954168,8,Who is more musical?,other,-1.5
+9969665,5,Who is more musical?,other,-1.5
+9996039,16,Who is more musical?,other,-1.5
+1142624,19,Who is more religious?,other,0.5
+1287720,21,Who is more religious?,other,-1.5
+1413618,6,Who is more religious?,other,1.5
+1510275,20,Who is more religious?,other,0.5
+1515614,2,Who is more religious?,other,2.5
+1524468,21,Who is more religious?,other,1.5
+1633020,10,Who is more religious?,other,1.5
+1717058,2,Who is more religious?,other,-1.5
+1774470,24,Who is more religious?,other,1.5
+1785240,3,Who is more religious?,other,1.5
+1824217,26,Who is more religious?,other,-2.5
+1832195,18,Who is more religious?,other,-1.5
+1854683,22,Who is more religious?,other,2.5
+2147710,15,Who is more religious?,other,2.5
+2320801,23,Who is more religious?,other,-1.5
+2348675,11,Who is more religious?,other,0.5
+2422756,22,Who is more religious?,other,-2.5
+2568308,24,Who is more religious?,other,0.5
+2625615,23,Who is more religious?,other,0.5
+2700755,9,Who is more religious?,other,-2.5
+2757342,13,Who is more religious?,other,-2.5
+2811881,21,Who is more religious?,other,-2.5
+2841392,5,Who is more religious?,other,-0.5
+2858139,2,Who is more religious?,other,-0.5
+2862073,4,Who is more religious?,other,-1.5
+2920394,1,Who is more religious?,other,1.5
+3047366,13,Who is more religious?,other,1.5
+3093192,16,Who is more religious?,other,-2.5
+3166437,11,Who is more religious?,other,1.5
+3400052,3,Who is more religious?,other,-1.5
+3573449,8,Who is more religious?,other,0.5
+3686281,9,Who is more religious?,other,-1.5
+3888893,21,Who is more religious?,other,-1.5
+4068785,26,Who is more religious?,other,-0.5
+4142689,24,Who is more religious?,other,1.5
+4170985,6,Who is more religious?,other,-2.5
+4625010,9,Who is more religious?,other,0.5
+4875966,24,Who is more religious?,other,-1.5
+5001779,25,Who is more religious?,other,0.5
+5004503,23,Who is more religious?,other,1.5
+5072875,7,Who is more religious?,other,-0.5
+5129955,18,Who is more religious?,other,-0.5
+5154581,1,Who is more religious?,other,0.5
+5168349,1,Who is more religious?,other,-0.5
+5193661,10,Who is more religious?,other,0.5
+5258667,6,Who is more religious?,other,2.5
+5404667,20,Who is more religious?,other,-0.5
+5709566,17,Who is more religious?,other,0.5
+5728466,3,Who is more religious?,other,-2.5
+5739140,12,Who is more religious?,other,1.5
+5876861,24,Who is more religious?,other,1.5
+5916531,17,Who is more religious?,other,0.5
+5980579,26,Who is more religious?,other,-0.5
+6102583,11,Who is more religious?,other,0.5
+6105547,10,Who is more religious?,other,-1.5
+6126672,11,Who is more religious?,other,-1.5
+6141536,15,Who is more religious?,other,-0.5
+6174225,18,Who is more religious?,other,-1.5
+6251370,4,Who is more religious?,other,0.5
+6304188,23,Who is more religious?,other,1.5
+6332076,1,Who is more religious?,other,-1.5
+6363469,19,Who is more religious?,other,-2.5
+6420053,7,Who is more religious?,other,1.5
+6434581,26,Who is more religious?,other,-0.5
+6448316,17,Who is more religious?,other,0.5
+6494589,1,Who is more religious?,other,-1.5
+6585321,2,Who is more religious?,other,0.5
+6597706,18,Who is more religious?,other,1.5
+6604457,10,Who is more religious?,other,-1.5
+6641245,6,Who is more religious?,other,0.5
+6677927,25,Who is more religious?,other,-0.5
+6751519,18,Who is more religious?,other,0.5
+6769747,4,Who is more religious?,other,1.5
+6787298,21,Who is more religious?,other,0.5
+6809215,11,Who is more religious?,other,1.5
+6906492,20,Who is more religious?,other,1.5
+6921559,7,Who is more religious?,other,1.5
+7018743,2,Who is more religious?,other,-1.5
+7047138,24,Who is more religious?,other,-0.5
+7159485,13,Who is more religious?,other,-0.5
+7275833,5,Who is more religious?,other,-0.5
+7285216,15,Who is more religious?,other,1.5
+7315281,14,Who is more religious?,other,-0.5
+7371193,24,Who is more religious?,other,0.5
+7477141,16,Who is more religious?,other,1.5
+7648361,6,Who is more religious?,other,-1.5
+7657180,6,Who is more religious?,other,0.5
+7683469,23,Who is more religious?,other,-0.5
+7910765,16,Who is more religious?,other,-0.5
+7912713,14,Who is more religious?,other,-0.5
+7991042,18,Who is more religious?,other,-1.5
+7994340,14,Who is more religious?,other,0.5
+8329775,8,Who is more religious?,other,-1.5
+8461924,7,Who is more religious?,other,-2.5
+8479358,17,Who is more religious?,other,-0.5
+8520741,9,Who is more religious?,other,2.5
+8647376,1,Who is more religious?,other,-1.5
+9032763,3,Who is more religious?,other,-1.5
+9163058,12,Who is more religious?,other,-0.5
+9236437,20,Who is more religious?,other,-2.5
+9385299,9,Who is more religious?,other,-1.5
+9446043,10,Who is more religious?,other,1.5
+9456872,17,Who is more religious?,other,-2.5
+9492001,6,Who is more religious?,other,-0.5
+9682464,11,Who is more religious?,other,-2.5
+9733720,2,Who is more religious?,other,-0.5
+9788976,18,Who is more religious?,other,0.5
+9902658,26,Who is more religious?,other,0.5
+9954168,13,Who is more religious?,other,2.5
+9969665,26,Who is more religious?,other,-0.5
+9996039,1,Who is more religious?,other,1.5
+1142624,26,Who is more rhythmic?,other,0.5
+1287720,11,Who is more rhythmic?,other,-0.5
+1413618,4,Who is more rhythmic?,other,0.5
+1510275,6,Who is more rhythmic?,other,-0.5
+1515614,18,Who is more rhythmic?,other,-2.5
+1524468,22,Who is more rhythmic?,other,1.5
+1633020,13,Who is more rhythmic?,other,1.5
+1717058,11,Who is more rhythmic?,other,-0.5
+1774470,14,Who is more rhythmic?,other,-0.5
+1785240,4,Who is more rhythmic?,other,-0.5
+1824217,15,Who is more rhythmic?,other,2.5
+1832195,5,Who is more rhythmic?,other,-0.5
+1854683,4,Who is more rhythmic?,other,-1.5
+2147710,20,Who is more rhythmic?,other,1.5
+2320801,10,Who is more rhythmic?,other,-1.5
+2348675,12,Who is more rhythmic?,other,-0.5
+2422756,18,Who is more rhythmic?,other,0.5
+2568308,1,Who is more rhythmic?,other,1.5
+2625615,3,Who is more rhythmic?,other,-1.5
+2700755,25,Who is more rhythmic?,other,-1.5
+2757342,8,Who is more rhythmic?,other,-0.5
+2811881,3,Who is more rhythmic?,other,0.5
+2841392,4,Who is more rhythmic?,other,0.5
+2858139,18,Who is more rhythmic?,other,-0.5
+2862073,24,Who is more rhythmic?,other,-0.5
+2920394,19,Who is more rhythmic?,other,-1.5
+3047366,9,Who is more rhythmic?,other,1.5
+3093192,25,Who is more rhythmic?,other,0.5
+3166437,15,Who is more rhythmic?,other,0.5
+3400052,13,Who is more rhythmic?,other,-0.5
+3573449,1,Who is more rhythmic?,other,-0.5
+3686281,8,Who is more rhythmic?,other,1.5
+3888893,24,Who is more rhythmic?,other,-1.5
+4068785,16,Who is more rhythmic?,other,-0.5
+4142689,9,Who is more rhythmic?,other,-0.5
+4170985,8,Who is more rhythmic?,other,-0.5
+4625010,5,Who is more rhythmic?,other,0.5
+4875966,13,Who is more rhythmic?,other,-0.5
+5001779,5,Who is more rhythmic?,other,0.5
+5004503,1,Who is more rhythmic?,other,-0.5
+5072875,3,Who is more rhythmic?,other,1.5
+5129955,15,Who is more rhythmic?,other,1.5
+5154581,20,Who is more rhythmic?,other,0.5
+5168349,18,Who is more rhythmic?,other,-2.5
+5193661,22,Who is more rhythmic?,other,-1.5
+5258667,25,Who is more rhythmic?,other,1.5
+5404667,12,Who is more rhythmic?,other,-0.5
+5709566,7,Who is more rhythmic?,other,0.5
+5728466,17,Who is more rhythmic?,other,-2.5
+5739140,21,Who is more rhythmic?,other,0.5
+5876861,21,Who is more rhythmic?,other,1.5
+5916531,12,Who is more rhythmic?,other,-1.5
+5980579,21,Who is more rhythmic?,other,0.5
+6102583,6,Who is more rhythmic?,other,0.5
+6105547,12,Who is more rhythmic?,other,0.5
+6126672,3,Who is more rhythmic?,other,0.5
+6141536,12,Who is more rhythmic?,other,-1.5
+6174225,15,Who is more rhythmic?,other,-1.5
+6251370,8,Who is more rhythmic?,other,0.5
+6304188,17,Who is more rhythmic?,other,1.5
+6332076,18,Who is more rhythmic?,other,0.5
+6363469,7,Who is more rhythmic?,other,2.5
+6420053,2,Who is more rhythmic?,other,-2.5
+6434581,6,Who is more rhythmic?,other,0.5
+6448316,10,Who is more rhythmic?,other,0.5
+6494589,18,Who is more rhythmic?,other,-1.5
+6585321,6,Who is more rhythmic?,other,1.5
+6597706,6,Who is more rhythmic?,other,1.5
+6604457,17,Who is more rhythmic?,other,1.5
+6641245,18,Who is more rhythmic?,other,-1.5
+6677927,20,Who is more rhythmic?,other,-0.5
+6751519,5,Who is more rhythmic?,other,0.5
+6769747,9,Who is more rhythmic?,other,1.5
+6787298,13,Who is more rhythmic?,other,-0.5
+6809215,12,Who is more rhythmic?,other,-0.5
+6906492,18,Who is more rhythmic?,other,-1.5
+6921559,3,Who is more rhythmic?,other,1.5
+7018743,5,Who is more rhythmic?,other,1.5
+7047138,20,Who is more rhythmic?,other,0.5
+7159485,24,Who is more rhythmic?,other,-0.5
+7275833,22,Who is more rhythmic?,other,-1.5
+7285216,26,Who is more rhythmic?,other,-0.5
+7315281,9,Who is more rhythmic?,other,-0.5
+7371193,6,Who is more rhythmic?,other,-0.5
+7477141,20,Who is more rhythmic?,other,-1.5
+7648361,9,Who is more rhythmic?,other,1.5
+7657180,20,Who is more rhythmic?,other,-0.5
+7683469,10,Who is more rhythmic?,other,1.5
+7910765,26,Who is more rhythmic?,other,-0.5
+7912713,15,Who is more rhythmic?,other,-0.5
+7991042,10,Who is more rhythmic?,other,1.5
+7994340,4,Who is more rhythmic?,other,-0.5
+8329775,2,Who is more rhythmic?,other,0.5
+8461924,4,Who is more rhythmic?,other,-2.5
+8479358,21,Who is more rhythmic?,other,-0.5
+8520741,13,Who is more rhythmic?,other,-2.5
+8647376,3,Who is more rhythmic?,other,2.5
+9032763,11,Who is more rhythmic?,other,1.5
+9163058,18,Who is more rhythmic?,other,0.5
+9236437,12,Who is more rhythmic?,other,0.5
+9385299,21,Who is more rhythmic?,other,-2.5
+9446043,4,Who is more rhythmic?,other,-1.5
+9456872,21,Who is more rhythmic?,other,-0.5
+9492001,14,Who is more rhythmic?,other,-0.5
+9682464,21,Who is more rhythmic?,other,-1.5
+9733720,25,Who is more rhythmic?,other,0.5
+9788976,12,Who is more rhythmic?,other,-0.5
+9902658,7,Who is more rhythmic?,other,-0.5
+9954168,21,Who is more rhythmic?,other,-0.5
+9969665,13,Who is more rhythmic?,other,0.5
+9996039,21,Who is more rhythmic?,other,-1.5
+1142624,11,Who is more rude?,hostile,0.5
+1287720,3,Who is more rude?,hostile,-1.5
+1413618,8,Who is more rude?,hostile,-1.5
+1510275,22,Who is more rude?,hostile,0.5
+1515614,21,Who is more rude?,hostile,-2.5
+1524468,2,Who is more rude?,hostile,1.5
+1633020,7,Who is more rude?,hostile,1.5
+1717058,19,Who is more rude?,hostile,1.5
+1774470,13,Who is more rude?,hostile,1.5
+1785240,22,Who is more rude?,hostile,-0.5
+1824217,21,Who is more rude?,hostile,-2.5
+1832195,21,Who is more rude?,hostile,-1.5
+1854683,20,Who is more rude?,hostile,2.5
+2147710,18,Who is more rude?,hostile,2.5
+2320801,26,Who is more rude?,hostile,-0.5
+2348675,26,Who is more rude?,hostile,0.5
+2422756,9,Who is more rude?,hostile,1.5
+2568308,18,Who is more rude?,hostile,0.5
+2625615,21,Who is more rude?,hostile,-1.5
+2700755,7,Who is more rude?,hostile,-1.5
+2757342,26,Who is more rude?,hostile,1.5
+2811881,1,Who is more rude?,hostile,-0.5
+2841392,16,Who is more rude?,hostile,-0.5
+2858139,25,Who is more rude?,hostile,2.5
+2862073,13,Who is more rude?,hostile,-0.5
+2920394,2,Who is more rude?,hostile,1.5
+3047366,15,Who is more rude?,hostile,-0.5
+3093192,23,Who is more rude?,hostile,1.5
+3166437,7,Who is more rude?,hostile,-1.5
+3400052,25,Who is more rude?,hostile,1.5
+3573449,19,Who is more rude?,hostile,0.5
+3686281,6,Who is more rude?,hostile,1.5
+3888893,5,Who is more rude?,hostile,-0.5
+4068785,11,Who is more rude?,hostile,1.5
+4142689,8,Who is more rude?,hostile,-0.5
+4170985,4,Who is more rude?,hostile,-2.5
+4625010,16,Who is more rude?,hostile,-0.5
+4875966,20,Who is more rude?,hostile,2.5
+5001779,12,Who is more rude?,hostile,-2.5
+5004503,17,Who is more rude?,hostile,0.5
+5072875,19,Who is more rude?,hostile,1.5
+5129955,6,Who is more rude?,hostile,-1.5
+5154581,22,Who is more rude?,hostile,-0.5
+5168349,16,Who is more rude?,hostile,-1.5
+5193661,25,Who is more rude?,hostile,-1.5
+5258667,23,Who is more rude?,hostile,1.5
+5404667,26,Who is more rude?,hostile,-1.5
+5709566,25,Who is more rude?,hostile,-0.5
+5728466,18,Who is more rude?,hostile,2.5
+5739140,4,Who is more rude?,hostile,0.5
+5876861,20,Who is more rude?,hostile,0.5
+5916531,6,Who is more rude?,hostile,-0.5
+5980579,4,Who is more rude?,hostile,-1.5
+6102583,15,Who is more rude?,hostile,1.5
+6105547,7,Who is more rude?,hostile,-0.5
+6126672,8,Who is more rude?,hostile,1.5
+6141536,25,Who is more rude?,hostile,-2.5
+6174225,17,Who is more rude?,hostile,1.5
+6251370,6,Who is more rude?,hostile,-0.5
+6304188,11,Who is more rude?,hostile,-1.5
+6332076,24,Who is more rude?,hostile,0.5
+6363469,26,Who is more rude?,hostile,2.5
+6420053,20,Who is more rude?,hostile,0.5
+6434581,24,Who is more rude?,hostile,1.5
+6448316,8,Who is more rude?,hostile,-2.5
+6494589,22,Who is more rude?,hostile,2.5
+6585321,9,Who is more rude?,hostile,-1.5
+6597706,11,Who is more rude?,hostile,-2.5
+6604457,6,Who is more rude?,hostile,-1.5
+6641245,19,Who is more rude?,hostile,1.5
+6677927,12,Who is more rude?,hostile,-0.5
+6751519,4,Who is more rude?,hostile,-0.5
+6769747,25,Who is more rude?,hostile,1.5
+6787298,7,Who is more rude?,hostile,0.5
+6809215,21,Who is more rude?,hostile,0.5
+6906492,24,Who is more rude?,hostile,1.5
+6921559,9,Who is more rude?,hostile,-1.5
+7018743,6,Who is more rude?,hostile,0.5
+7047138,17,Who is more rude?,hostile,-1.5
+7159485,15,Who is more rude?,hostile,0.5
+7275833,7,Who is more rude?,hostile,1.5
+7285216,8,Who is more rude?,hostile,-0.5
+7315281,22,Who is more rude?,hostile,0.5
+7371193,11,Who is more rude?,hostile,-1.5
+7477141,22,Who is more rude?,hostile,1.5
+7648361,10,Who is more rude?,hostile,-0.5
+7657180,9,Who is more rude?,hostile,-0.5
+7683469,19,Who is more rude?,hostile,-1.5
+7910765,7,Who is more rude?,hostile,0.5
+7912713,10,Who is more rude?,hostile,0.5
+7991042,9,Who is more rude?,hostile,1.5
+7994340,12,Who is more rude?,hostile,-1.5
+8329775,15,Who is more rude?,hostile,-1.5
+8461924,1,Who is more rude?,hostile,-0.5
+8479358,24,Who is more rude?,hostile,-1.5
+8520741,5,Who is more rude?,hostile,0.5
+8647376,7,Who is more rude?,hostile,2.5
+9032763,25,Who is more rude?,hostile,0.5
+9163058,5,Who is more rude?,hostile,-1.5
+9236437,24,Who is more rude?,hostile,1.5
+9385299,24,Who is more rude?,hostile,-1.5
+9446043,13,Who is more rude?,hostile,-1.5
+9456872,3,Who is more rude?,hostile,2.5
+9492001,24,Who is more rude?,hostile,-0.5
+9682464,20,Who is more rude?,hostile,-2.5
+9733720,18,Who is more rude?,hostile,0.5
+9788976,15,Who is more rude?,hostile,1.5
+9902658,1,Who is more rude?,hostile,0.5
+9954168,16,Who is more rude?,hostile,-0.5
+9969665,6,Who is more rude?,hostile,2.5
+9996039,10,Who is more rude?,hostile,-1.5
+1142624,24,Who is more unassuming?,filler,0.5
+1287720,8,Who is more unassuming?,filler,1.5
+1413618,25,Who is more unassuming?,filler,1.5
+1510275,8,Who is more unassuming?,filler,-0.5
+1515614,13,Who is more unassuming?,filler,-2.5
+1524468,6,Who is more unassuming?,filler,-1.5
+1633020,14,Who is more unassuming?,filler,-1.5
+1717058,14,Who is more unassuming?,filler,-1.5
+1774470,18,Who is more unassuming?,filler,-0.5
+1785240,12,Who is more unassuming?,filler,1.5
+1824217,1,Who is more unassuming?,filler,-2.5
+1832195,15,Who is more unassuming?,filler,0.5
+1854683,21,Who is more unassuming?,filler,-2.5
+2147710,6,Who is more unassuming?,filler,-2.5
+2320801,13,Who is more unassuming?,filler,1.5
+2348675,20,Who is more unassuming?,filler,-0.5
+2422756,17,Who is more unassuming?,filler,1.5
+2568308,23,Who is more unassuming?,filler,-2.5
+2625615,22,Who is more unassuming?,filler,0.5
+2700755,10,Who is more unassuming?,filler,2.5
+2757342,21,Who is more unassuming?,filler,-1.5
+2811881,4,Who is more unassuming?,filler,0.5
+2841392,8,Who is more unassuming?,filler,1.5
+2858139,15,Who is more unassuming?,filler,-0.5
+2862073,11,Who is more unassuming?,filler,-0.5
+2920394,13,Who is more unassuming?,filler,-1.5
+3047366,23,Who is more unassuming?,filler,-0.5
+3093192,20,Who is more unassuming?,filler,0.5
+3166437,2,Who is more unassuming?,filler,-0.5
+3400052,7,Who is more unassuming?,filler,-2.5
+3573449,20,Who is more unassuming?,filler,-0.5
+3686281,16,Who is more unassuming?,filler,1.5
+3888893,10,Who is more unassuming?,filler,1.5
+4068785,13,Who is more unassuming?,filler,0.5
+4142689,11,Who is more unassuming?,filler,1.5
+4170985,2,Who is more unassuming?,filler,-2.5
+4625010,1,Who is more unassuming?,filler,0.5
+4875966,25,Who is more unassuming?,filler,-2.5
+5001779,16,Who is more unassuming?,filler,-1.5
+5004503,15,Who is more unassuming?,filler,0.5
+5072875,6,Who is more unassuming?,filler,-0.5
+5129955,5,Who is more unassuming?,filler,0.5
+5154581,2,Who is more unassuming?,filler,-0.5
+5168349,11,Who is more unassuming?,filler,1.5
+5193661,12,Who is more unassuming?,filler,-1.5
+5258667,1,Who is more unassuming?,filler,-1.5
+5404667,17,Who is more unassuming?,filler,-1.5
+5709566,22,Who is more unassuming?,filler,-0.5
+5728466,19,Who is more unassuming?,filler,-2.5
+5739140,18,Who is more unassuming?,filler,1.5
+5876861,16,Who is more unassuming?,filler,0.5
+5916531,20,Who is more unassuming?,filler,-0.5
+5980579,19,Who is more unassuming?,filler,0.5
+6102583,17,Who is more unassuming?,filler,-0.5
+6105547,26,Who is more unassuming?,filler,-0.5
+6126672,2,Who is more unassuming?,filler,-1.5
+6141536,10,Who is more unassuming?,filler,0.5
+6174225,16,Who is more unassuming?,filler,-0.5
+6251370,5,Who is more unassuming?,filler,-1.5
+6304188,22,Who is more unassuming?,filler,-1.5
+6332076,4,Who is more unassuming?,filler,0.5
+6363469,14,Who is more unassuming?,filler,-1.5
+6420053,21,Who is more unassuming?,filler,0.5
+6434581,3,Who is more unassuming?,filler,-0.5
+6448316,5,Who is more unassuming?,filler,-0.5
+6494589,26,Who is more unassuming?,filler,1.5
+6585321,25,Who is more unassuming?,filler,-0.5
+6597706,16,Who is more unassuming?,filler,-1.5
+6604457,12,Who is more unassuming?,filler,1.5
+6641245,25,Who is more unassuming?,filler,-1.5
+6677927,26,Who is more unassuming?,filler,-0.5
+6751519,23,Who is more unassuming?,filler,-0.5
+6769747,3,Who is more unassuming?,filler,0.5
+6787298,1,Who is more unassuming?,filler,-0.5
+6809215,3,Who is more unassuming?,filler,-0.5
+6906492,5,Who is more unassuming?,filler,-0.5
+6921559,17,Who is more unassuming?,filler,-1.5
+7018743,25,Who is more unassuming?,filler,0.5
+7047138,23,Who is more unassuming?,filler,-0.5
+7159485,3,Who is more unassuming?,filler,-0.5
+7275833,24,Who is more unassuming?,filler,1.5
+7285216,11,Who is more unassuming?,filler,-1.5
+7315281,4,Who is more unassuming?,filler,2.5
+7371193,25,Who is more unassuming?,filler,-1.5
+7477141,9,Who is more unassuming?,filler,-0.5
+7648361,15,Who is more unassuming?,filler,0.5
+7657180,3,Who is more unassuming?,filler,1.5
+7683469,21,Who is more unassuming?,filler,2.5
+7910765,22,Who is more unassuming?,filler,-0.5
+7912713,5,Who is more unassuming?,filler,0.5
+7991042,17,Who is more unassuming?,filler,-1.5
+7994340,17,Who is more unassuming?,filler,0.5
+8329775,14,Who is more unassuming?,filler,-0.5
+8461924,3,Who is more unassuming?,filler,-0.5
+8479358,14,Who is more unassuming?,filler,1.5
+8520741,18,Who is more unassuming?,filler,2.5
+8647376,18,Who is more unassuming?,filler,-0.5
+9032763,16,Who is more unassuming?,filler,-1.5
+9163058,13,Who is more unassuming?,filler,0.5
+9236437,7,Who is more unassuming?,filler,-1.5
+9385299,17,Who is more unassuming?,filler,-1.5
+9446043,5,Who is more unassuming?,filler,-0.5
+9456872,26,Who is more unassuming?,filler,-0.5
+9492001,26,Who is more unassuming?,filler,-1.5
+9682464,1,Who is more unassuming?,filler,2.5
+9733720,19,Who is more unassuming?,filler,0.5
+9788976,6,Who is more unassuming?,filler,0.5
+9902658,24,Who is more unassuming?,filler,-0.5
+9954168,26,Who is more unassuming?,filler,-1.5
+9969665,20,Who is more unassuming?,filler,-2.5
+9996039,24,Who is more unassuming?,filler,-0.5
+1142624,15,Who is unemployed?,ses,0.5
+1287720,4,Who is unemployed?,ses,-0.5
+1413618,14,Who is unemployed?,ses,-1.5
+1510275,21,Who is unemployed?,ses,-0.5
+1515614,24,Who is unemployed?,ses,-2.5
+1524468,14,Who is unemployed?,ses,-1.5
+1633020,8,Who is unemployed?,ses,-1.5
+1717058,1,Who is unemployed?,ses,-1.5
+1774470,8,Who is unemployed?,ses,0.5
+1785240,8,Who is unemployed?,ses,0.5
+1824217,17,Who is unemployed?,ses,-2.5
+1832195,4,Who is unemployed?,ses,-0.5
+1854683,18,Who is unemployed?,ses,1.5
+2147710,25,Who is unemployed?,ses,-1.5
+2320801,14,Who is unemployed?,ses,1.5
+2348675,4,Who is unemployed?,ses,-0.5
+2422756,6,Who is unemployed?,ses,0.5
+2568308,16,Who is unemployed?,ses,-0.5
+2625615,6,Who is unemployed?,ses,-1.5
+2700755,2,Who is unemployed?,ses,-0.5
+2757342,20,Who is unemployed?,ses,2.5
+2811881,17,Who is unemployed?,ses,0.5
+2841392,1,Who is unemployed?,ses,0.5
+2858139,5,Who is unemployed?,ses,0.5
+2862073,25,Who is unemployed?,ses,-1.5
+2920394,8,Who is unemployed?,ses,-1.5
+3047366,18,Who is unemployed?,ses,-0.5
+3093192,1,Who is unemployed?,ses,-2.5
+3166437,12,Who is unemployed?,ses,1.5
+3400052,15,Who is unemployed?,ses,2.5
+3573449,2,Who is unemployed?,ses,0.5
+3686281,13,Who is unemployed?,ses,0.5
+3888893,6,Who is unemployed?,ses,0.5
+4068785,1,Who is unemployed?,ses,1.5
+4142689,16,Who is unemployed?,ses,-1.5
+4170985,9,Who is unemployed?,ses,1.5
+4625010,20,Who is unemployed?,ses,-0.5
+4875966,12,Who is unemployed?,ses,2.5
+5001779,2,Who is unemployed?,ses,1.5
+5004503,9,Who is unemployed?,ses,-0.5
+5072875,25,Who is unemployed?,ses,0.5
+5129955,25,Who is unemployed?,ses,-0.5
+5154581,14,Who is unemployed?,ses,0.5
+5168349,9,Who is unemployed?,ses,-1.5
+5193661,20,Who is unemployed?,ses,0.5
+5258667,16,Who is unemployed?,ses,1.5
+5404667,6,Who is unemployed?,ses,0.5
+5709566,4,Who is unemployed?,ses,0.5
+5728466,4,Who is unemployed?,ses,-2.5
+5739140,2,Who is unemployed?,ses,-0.5
+5876861,12,Who is unemployed?,ses,-1.5
+5916531,2,Who is unemployed?,ses,1.5
+5980579,8,Who is unemployed?,ses,-1.5
+6102583,18,Who is unemployed?,ses,-0.5
+6105547,5,Who is unemployed?,ses,0.5
+6126672,10,Who is unemployed?,ses,0.5
+6141536,2,Who is unemployed?,ses,-1.5
+6174225,23,Who is unemployed?,ses,-0.5
+6251370,3,Who is unemployed?,ses,-0.5
+6304188,7,Who is unemployed?,ses,1.5
+6332076,26,Who is unemployed?,ses,0.5
+6363469,11,Who is unemployed?,ses,2.5
+6420053,22,Who is unemployed?,ses,1.5
+6434581,4,Who is unemployed?,ses,1.5
+6448316,12,Who is unemployed?,ses,1.5
+6494589,25,Who is unemployed?,ses,2.5
+6585321,11,Who is unemployed?,ses,1.5
+6597706,15,Who is unemployed?,ses,0.5
+6604457,2,Who is unemployed?,ses,0.5
+6641245,22,Who is unemployed?,ses,1.5
+6677927,10,Who is unemployed?,ses,-2.5
+6751519,20,Who is unemployed?,ses,0.5
+6769747,15,Who is unemployed?,ses,-1.5
+6787298,20,Who is unemployed?,ses,0.5
+6809215,22,Who is unemployed?,ses,-0.5
+6906492,8,Who is unemployed?,ses,1.5
+6921559,4,Who is unemployed?,ses,2.5
+7018743,12,Who is unemployed?,ses,0.5
+7047138,16,Who is unemployed?,ses,-0.5
+7159485,7,Who is unemployed?,ses,0.5
+7275833,1,Who is unemployed?,ses,1.5
+7285216,2,Who is unemployed?,ses,0.5
+7315281,7,Who is unemployed?,ses,-0.5
+7371193,13,Who is unemployed?,ses,0.5
+7477141,7,Who is unemployed?,ses,-1.5
+7648361,25,Who is unemployed?,ses,0.5
+7657180,22,Who is unemployed?,ses,1.5
+7683469,16,Who is unemployed?,ses,1.5
+7910765,1,Who is unemployed?,ses,0.5
+7912713,16,Who is unemployed?,ses,-0.5
+7991042,8,Who is unemployed?,ses,1.5
+7994340,21,Who is unemployed?,ses,-0.5
+8329775,11,Who is unemployed?,ses,1.5
+8461924,15,Who is unemployed?,ses,-0.5
+8479358,15,Who is unemployed?,ses,1.5
+8520741,6,Who is unemployed?,ses,-2.5
+8647376,14,Who is unemployed?,ses,2.5
+9032763,7,Who is unemployed?,ses,-1.5
+9163058,15,Who is unemployed?,ses,0.5
+9236437,18,Who is unemployed?,ses,2.5
+9385299,19,Who is unemployed?,ses,0.5
+9446043,15,Who is unemployed?,ses,1.5
+9456872,25,Who is unemployed?,ses,2.5
+9492001,23,Who is unemployed?,ses,1.5
+9682464,23,Who is unemployed?,ses,2.5
+9733720,24,Who is unemployed?,ses,1.5
+9788976,9,Who is unemployed?,ses,-0.5
+9902658,20,Who is unemployed?,ses,-0.5
+9954168,20,Who is unemployed?,ses,0.5
+9969665,17,Who is unemployed?,ses,1.5
+9996039,15,Who is unemployed?,ses,1.5
